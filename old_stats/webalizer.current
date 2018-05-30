@@ -1,0 +1,1660 @@
+# Webalizer V2.01-06 Incremental Data - 06/19/2007 20:23:02
+2007 6 19 20 23 2
+17865 12515 266 206 0 0 214663256 1913 306 0
+29 222 818 1 19
+1009 848 13098708 19 85 17
+548 442 5587321 12 53 11
+1071 445 11057215 7 63 7
+1023 777 13255819 16 112 17
+912 705 12239798 18 103 17
+828 520 10303522 16 80 18
+644 493 7807395 12 113 14
+1226 454 8492319 13 62 13
+616 430 8720737 12 71 11
+1373 1086 19486775 15 98 14
+906 687 12280541 19 82 17
+1068 736 13939943 22 142 25
+945 720 14405816 23 117 23
+652 425 8056667 11 46 11
+299 142 2513051 8 35 9
+1189 747 9519221 17 149 17
+852 709 10061837 16 126 18
+1040 770 13202020 17 151 18
+1664 1379 20634551 29 225 31
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+197 122 2127944 16
+251 137 2658034 29
+15 9 25386 12
+80 63 671370 25
+6 4 4478 5
+2 1 4184 1
+110 83 1008040 14
+68 66 891187 10
+198 152 2718206 34
+915 624 10926062 128
+1255 1002 16133847 105
+1278 924 14759885 111
+598 457 7871050 78
+1093 689 11198546 113
+1710 1179 19636447 209
+2143 1066 18534181 169
+1203 905 15090787 134
+1264 922 17064546 149
+1154 837 14433018 123
+939 575 13222049 65
+1739 1328 24287329 180
+951 771 11049953 120
+328 278 5090793 25
+368 321 5255934 58
+0
+0
+0
+12515
+0
+0
+0
+0
+0
+115
+0
+0
+0
+0
+1992
+0
+0
+0
+0
+0
+0
+3184
+0
+58
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+# -urls- 
+/images/potroas/08.jpg
+1 18 0 963732 0 0
+/images/tit_campolinasfamosos.gif
+1 74 0 152721 0 0
+/images/o_haras/04_pq.jpg
+1 63 0 441201 0 0
+/images/programa_seletivo/01_pq.jpg
+1 30 0 291300 0 0
+/images/campolinas_famosos/05_pq.jpg
+1 75 0 537489 0 0
+/images/album1/thumbnails/Citrine+de+Luanda+2.jpg
+1 30 0 60706 0 0
+/images/potroas/19.jpg
+1 15 0 597105 0 0
+/
+0 346 0 0 269 20
+/images/shim.gif
+1 372 0 95874 0 0
+/css/lightbox.css
+0 312 0 244182 0 0
+/images/o_haras/09_pq.jpg
+1 61 0 550290 0 0
+/images/campolinas_famosos/12_pq.jpg
+1 75 0 582178 0 0
+/images/potroas/01_pq.jpg
+1 72 0 518613 0 0
+/images/album1/thumbnails/Coliseu+de+Luanda+3.jpg
+1 30 0 57255 0 0
+/images/potroas/07.jpg
+1 17 0 880710 0 0
+/images/potroas/18.jpg
+1 20 0 977575 0 0
+/images/album1/thumbnails/Dr
+0 60 0 134520 0 0
+/images/campolinas_famosos/09.jpg
+1 17 0 997709 0 0
+/images/potroas/06.jpg
+1 15 0 653889 0 0
+/images/reprodutor/05_pq.jpg
+1 39 0 318384 0 0
+/programa.asp
+0 44 0 0 1 1
+/images/potroas/17.jpg
+1 16 0 965419 0 0
+/images/album1/thumbnails/Comodoro+de+Luanda2.jpg
+1 30 0 62388 0 0
+/images/campolinas_famosos/24_pq.jpg
+1 75 0 690434 0 0
+/images/matrizes/01_pq.jpg
+1 65 0 512580 0 0
+/images/album1/thumbnails/Comodoro+de+Luanda.jpg
+1 30 0 51977 0 0
+/images/album1/thumbnails/Deusa+da+Filó.jpg
+1 30 0 47954 0 0
+/images/album1/thumbnails/Deusa+da+Filó2.jpg
+1 30 0 45976 0 0
+/images/loading.gif
+1 325 0 549336 0 0
+/images/matrizes/06.jpg
+1 14 0 310776 0 0
+/images/campolinas_famosos/08.jpg
+1 24 0 1280457 0 0
+/images/o_haras/01_pq.jpg
+1 63 0 442886 0 0
+/images/campolinas_famosos/02_pq.jpg
+1 75 0 488257 0 0
+/images/potroas/05.jpg
+1 34 0 1061880 0 0
+/images/potroas/16.jpg
+1 18 0 919693 0 0
+/images/album1/thumbnails/Córsega+de+Luanda.jpg
+1 30 0 61025 0 0
+/neruda.asp
+0 49 0 0 0 2
+/images/album1/images/Deusa+da+Filó2.jpg
+1 11 0 247363 0 0
+/images/album1/flashobject.js
+0 39 0 198207 0 0
+/images/o_haras/06_pq.jpg
+1 62 0 392001 0 0
+/images/campolinas_famosos/07_pq.jpg
+1 74 0 624890 0 0
+/op.asp
+0 61 0 0 0 0
+/images/album1/images/Decano+de+Luanda2.jpg
+1 9 0 202179 0 0
+/images/tit_reprodutor.gif
+1 154 0 208821 0 0
+/estilo.css
+0 381 0 404270 0 0
+/images/matrizes/05.jpg
+1 13 0 335215 0 0
+/images/campolinas_famosos/07.jpg
+1 22 0 1081350 0 0
+/images/reprodutor/08.jpg
+1 21 0 958838 0 0
+/images/o_haras/09.jpg
+1 30 0 2118060 0 0
+/images/tit_programa.gif
+1 30 0 64410 0 0
+/images/potroas/04.jpg
+1 26 0 1190086 0 0
+/images/campolinas_famosos/18.jpg
+1 22 0 1293663 0 0
+/images/potroas/15.jpg
+1 15 0 712374 0 0
+/images/album1/images/Comodoro+de+Luanda.jpg
+1 17 0 388016 0 0
+/images/album1/images/Citrine+de+Luanda.jpg
+1 34 0 541110 0 0
+/images/album1/images/Conquista+de+Luanda.jpg
+1 10 0 147088 0 0
+/images/campolinas_famosos/14_pq.jpg
+1 75 0 544098 0 0
+/images/potroas/03_pq.jpg
+1 73 0 485860 0 0
+/absoluto.asp
+0 89 0 0 1 1
+/images/bg.jpg
+1 252 0 146338 0 0
+/exposicoes.asp
+0 117 0 0 3 3
+/images/matrizes/04.jpg
+1 12 0 525330 0 0
+/images/campolinas_famosos/06.jpg
+1 27 0 1940994 0 0
+/images/reprodutor/07.jpg
+1 25 0 1524594 0 0
+/images/o_haras/08.jpg
+1 21 0 304781 0 0
+/images/potroas/03.jpg
+1 30 0 1115604 0 0
+/images/campolinas_famosos/21_pq.jpg
+1 77 0 769073 0 0
+/images/tit_fale_conosco.gif
+1 17 0 26282 0 0
+/images/potroas/14.jpg
+1 15 0 665180 0 0
+/images/versite.jpg
+1 353 0 548422 0 0
+/images/album1/thumbnails/Coliseu+de+Luanda-1.jpg
+1 30 0 52615 0 0
+/images/reprodutor/07_pq.jpg
+1 45 0 410694 0 0
+/images/linha_ft.gif
+1 234 0 99081 0 0
+/swf/topo.swf
+0 384 0 76396724 0 0
+/images/matrizes/03.jpg
+1 27 0 848778 0 0
+/images/campolinas_famosos/05.jpg
+1 22 0 1425894 0 0
+/images/reprodutor/06.jpg
+1 19 0 973071 0 0
+/images/o_haras/07.jpg
+1 14 0 165882 0 0
+/images/campolinas_famosos/26_pq.jpg
+1 75 0 583742 0 0
+/images/album1/thumbnails/Destra+de+Luanda.jpg
+1 30 0 57371 0 0
+/images/matrizes/03_pq.jpg
+1 65 0 449652 0 0
+/images/potroas/02.jpg
+1 31 0 1530274 0 0
+/images/campolinas_famosos/16.jpg
+1 19 0 833311 0 0
+/images/bg_int.jpg
+1 313 0 208554 0 0
+/images/potroas/13.jpg
+1 16 0 786200 0 0
+/images/album1/thumbnails/Concorde+de+Luanda.jpg
+1 30 0 58009 0 0
+/images/campolinas_famosos/27.jpg
+1 11 0 847063 0 0
+/images/o_haras/03_pq.jpg
+1 63 0 411875 0 0
+/o_haras.asp
+0 83 0 0 5 3
+/reprodutor.asp
+0 280 0 0 3 2
+/images/comochegar_gr.jpg
+1 18 0 329933 0 0
+/images/programa_seletivo/01.jpg
+1 18 0 1259400 0 0
+/images/matrizes/02.jpg
+1 33 0 1776348 0 0
+/images/reprodutor/05.jpg
+1 26 0 1149691 0 0
+/images/o_haras/06.jpg
+1 12 0 148188 0 0
+/images/potroas/01.jpg
+1 32 0 1491831 0 0
+/images/o_haras/08_pq.jpg
+1 61 0 544341 0 0
+/images/campolinas_famosos/09_pq.jpg
+1 75 0 742454 0 0
+/sublime.asp
+0 68 0 0 0 0
+/cale.asp
+0 48 0 0 0 0
+/images/potroas/12.jpg
+1 15 0 706860 0 0
+/images/album1/images/Destra+de+Luanda.jpg
+1 11 0 279164 0 0
+/images/campolinas_famosos/26.jpg
+1 23 0 1307117 0 0
+/images/matrizes/01.jpg
+1 42 0 2428561 0 0
+/images/reprodutor/04.jpg
+1 30 0 1084709 0 0
+/images/o_haras/05.jpg
+1 15 0 186063 0 0
+/images/campolinas_famosos/16_pq.jpg
+1 75 0 525589 0 0
+/images/oharas.gif
+1 240 0 161591 0 0
+/images/potroas/05_pq.jpg
+1 72 0 463830 0 0
+/images/campolinas_famosos/14.jpg
+1 15 0 517266 0 0
+/swf/menu.swf
+0 394 0 1547169 0 0
+/images/album1/images/Concorde+de+Luanda.jpg
+1 15 0 265046 0 0
+/images/potroas/11.jpg
+1 21 0 1041240 0 0
+/images/exposicoes/01_pq.jpg
+1 88 0 799818 0 0
+/images/reprodutor/04_pq.jpg
+1 53 0 347675 0 0
+/images/home_topo.gif
+1 301 0 240248 0 0
+/images/selo_abrecam.gif
+1 243 0 991871 0 0
+/images/comochegar.jpg
+1 47 0 509370 0 0
+/Scripts/AC_RunActiveContent.js
+0 379 0 1021720 0 0
+/images/campolinas_famosos/02.jpg
+1 32 0 985056 0 0
+/matrizes.asp
+0 80 0 0 3 4
+/images/reprodutor/03.jpg
+1 18 0 785792 0 0
+/images/o_haras/04.jpg
+1 16 0 184576 0 0
+/images/campolinas_famosos/13.jpg
+1 17 0 718683 0 0
+/images/campolinas_famosos/01_pq.jpg
+1 75 0 529982 0 0
+/images/potroas/10.jpg
+1 16 0 776724 0 0
+/images/campolinas_famosos/24.jpg
+1 23 0 4332801 0 0
+/images/album1/thumbnails/Decano+de+Luanda2.jpg
+1 30 0 56735 0 0
+/images/album1/galleryconfig.xml
+0 30 0 61631 0 0
+/images/potroas/21.jpg
+1 23 0 1312873 0 0
+/images/overlay.png
+0 258 0 108834 0 0
+/images/campolinas_famosos/01.jpg
+1 36 0 1105459 0 0
+/images/o_haras/05_pq.jpg
+1 63 0 448598 0 0
+/images/o_haras/03.jpg
+1 23 0 289562 0 0
+/images/campolinas_famosos/06_pq.jpg
+1 75 0 472317 0 0
+/images/album1/thumbnails/Citrine+de+Luanda.jpg
+1 30 0 57748 0 0
+/images/foto_cavalocapa.jpg
+1 237 0 1457183 0 0
+/potroas.asp
+0 87 0 0 3 4
+/images/campolinas_famosos/12.jpg
+1 17 0 770928 0 0
+/images/album1/photos.xml
+0 30 0 144165 0 0
+/images/album1/images/Citrine+de+Luanda+2.jpg
+1 18 0 313698 0 0
+/images/album1/images/Potra+Pampa+Mesti
+0 19 0 303204 0 0
+/images/album1/thumbnails/Conquista+de+Luanda.jpg
+1 30 0 51803 0 0
+/images/potroas/20.jpg
+1 20 0 1058344 0 0
+/images/album1/images/Karole+do+GTS.jpg
+1 12 0 239928 0 0
+/images/tit_matrizes.gif
+1 65 0 82802 0 0
+/images/campolinas_famosos/13_pq.jpg
+1 74 0 547974 0 0
+/images/potroas/02_pq.jpg
+1 73 0 555531 0 0
+/images/reprodutor/01.jpg
+1 48 0 4202460 0 0
+/images/o_haras/02.jpg
+1 20 0 240834 0 0
+/images/album1/images/Coliseu+de+Luanda+3.jpg
+1 16 0 402504 0 0
+/images/album1/images/Potra+pampa+mesti
+0 19 0 373389 0 0
+/images/tit_expositores.gif
+1 88 0 146504 0 0
+/images/reprodutor/01_pq.jpg
+1 79 0 741985 0 0
+/images/campolinas_famosos/22.jpg
+1 13 0 708723 0 0
+/Scripts/lightbox.js
+0 309 0 3078104 0 0
+/images/campolinas_famosos/18_pq.jpg
+1 75 0 653429 0 0
+/images/campolinas_famosos/20_pq.jpg
+1 75 0 650356 0 0
+/images/album1/thumbnails/Karole+do+GTS2.jpg
+1 30 0 54732 0 0
+/images/tit_o_haras.gif
+1 60 0 109035 0 0
+/geodo.asp
+0 45 0 0 0 0
+/images/o_haras/01.jpg
+1 19 0 230565 0 0
+/images/reprodutor/06_pq.jpg
+1 38 0 325948 0 0
+/images/campolinas_famosos/10.jpg
+1 26 0 1933150 0 0
+/images/matrizes/02_pq.jpg
+1 65 0 507393 0 0
+/images/album1/
+0 39 0 73184 0 0
+/images/close.gif
+1 317 0 92285 0 0
+/images/campolinas_famosos/21.jpg
+1 23 0 2307722 0 0
+/images/album1/images/Comodoro+de+Luanda2.jpg
+1 12 0 295872 0 0
+/images/album1/images/Karole+do+GTS2.jpg
+1 13 0 252062 0 0
+/fale_conosco.asp
+0 27 0 0 4 0
+/campolinas_famosos.asp
+0 99 0 0 3 1
+/images/o_haras/02_pq.jpg
+1 64 0 423510 0 0
+/images/novidades.jpg
+1 255 0 532728 0 0
+/images/programaseletivo.gif
+1 237 0 231717 0 0
+/images/tit_como_chegar.gif
+1 45 0 80298 0 0
+Images
+2 10787 0 109725533 0 0
+/images/exposicoes/01.jpg
+1 22 0 1001796 0 0
+/images/album1/gallery.swf
+0 30 0 1683745 0 0
+/images/campolinas_famosos/20.jpg
+1 18 0 1080013 0 0
+/images/ft_capa1.jpg
+1 252 0 458958 0 0
+/images/o_haras/07_pq.jpg
+1 61 0 457761 0 0
+/images/campolinas_famosos/08_pq.jpg
+1 75 0 634260 0 0
+/images/campolinas_famosos/10_pq.jpg
+1 75 0 456040 0 0
+/images/album1/images/Córsega+de+Luanda.jpg
+1 10 0 262278 0 0
+/images/album1/images/Deusa+da+Filó.jpg
+1 13 0 219797 0 0
+/images/album1/thumbnails/Decano+de+Luanda.jpg
+1 30 0 53659 0 0
+/images/album1/thumbnails/Córsega+de+Luanda2.jpg
+1 30 0 60039 0 0
+/images/potroas/04_pq.jpg
+1 72 0 524265 0 0
+/images/album1/images/Dr
+0 21 0 604178 0 0
+/images/reprodutor/03_pq.jpg
+1 32 0 209183 0 0
+/images/campolinas_famosos/22_pq.jpg
+1 75 0 622952 0 0
+/images/album1/thumbnails/Potra+Pampa+Mesti
+0 30 0 52325 0 1
+/como_chegar.asp
+0 58 0 0 3 1
+/images/potroas/09.jpg
+1 17 0 778847 0 0
+/images/tit_potroas.gif
+1 71 0 98261 0 0
+/images/album1/thumbnails/Karole+do+GTS.jpg
+1 30 0 54181 0 0
+/images/reprodutor/08_pq.jpg
+1 37 0 262696 0 0
+/images/album1/images/Coliseu+de+Luanda-1.jpg
+1 16 0 329316 0 0
+/images/linha_menu.gif
+1 358 0 92128 0 0
+/images/album1/images/Decano+de+Luanda.jpg
+1 11 0 219267 0 0
+/design.asp
+0 44 0 0 0 1
+/images/album1/thumbnails/Potra+pampa+mesti
+0 30 0 55921 0 0
+/fale_conosco_resp.asp
+0 10 0 0 0 1
+/images/campolinas_famosos/27_pq.jpg
+1 75 0 708114 0 0
+/preludio.asp
+0 40 0 0 0 0
+/images/album1/images/Córsega+de+Luanda2.jpg
+1 13 0 339608 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201.54.48.6
+0 81 64 665159 2 1181303837
+/o_haras.asp
+c-24-98-100-191.hsd1.ga.comcast.net
+0 1240 341 7578083 3 1182172290
+/potroas.asp
+66-194-6-95.static.twtelecom.net
+0 1 1 0 1 1181165455
+/
+200-146-154-113.rev.easyband.com.br
+0 46 35 489058 1 1181320087
+/neruda.asp
+20132220131.user.veloxzone.com.br
+0 133 64 1062373 1 1181049689
+/absoluto.asp
+rz502482.inktomisearch.com
+0 2 1 294 2 1182207218
+/o_haras.asp
+201-92-118-155.dsl.telesp.net.br
+0 21 20 6782 1 1182100536
+/absoluto.asp
+lj612542.crawl.yahoo.net
+0 10 0 41840 0 0
+-
+200-98-40-63.tlf.dialuol.com.br
+0 55 53 626823 1 1182269688
+/images/album1/thumbnails/Potra+pampa+mesti
+66-194-6-73.static.twtelecom.net
+0 1 1 0 1 1181739666
+/
+200.243.148.10
+0 159 100 2079203 1 1181578561
+/potroas.asp
+200-103-88-156.cbace700.dsl.brasiltelecom.net.br
+0 153 115 1682219 1 1182271145
+/reprodutor.asp
+200.149.191.149
+0 26 22 146406 1 1181166987
+/absoluto.asp
+18913115012.user.veloxzone.com.br
+0 136 97 1309163 1 1181767458
+/como_chegar.asp
+189.11.247.45
+0 234 93 2767169 1 1180900437
+/potroas.asp
+189-10-28-141.bsaco700.dsl.brasiltelecom.net.br
+0 55 52 892366 1 1182256472
+/images/album1/thumbnails/Potra+pampa+mesti
+rz502549.inktomisearch.com
+0 1 1 0 1 1182236849
+/fale_conosco.asp
+189-18-58-145.dsl.telesp.net.br
+0 46 21 388399 1 1180713308
+/fale_conosco_resp.asp
+20132210121.user.veloxzone.com.br
+0 100 80 972629 1 1180808338
+/exposicoes.asp
+20178009118.user.veloxzone.com.br
+0 33 17 387276 1 1182287990
+/
+mvx-200-142-116-41.mundivox.com
+0 79 56 901421 1 1181056076
+/como_chegar.asp
+18913119170.user.veloxzone.com.br
+0 81 72 742850 1 1182264868
+/potroas.asp
+200.142.48.38
+0 28 27 415973 1 1181301150
+/absoluto.asp
+smtp-gw.anauger.com.br
+0 63 62 769939 1 1182167202
+/images/album1/images/Potra+pampa+mesti
+lj611370.crawl.yahoo.net
+0 1 0 4184 0 0
+-
+lproxy1.procempa.com.br
+0 65 64 968934 1 1180961423
+/como_chegar.asp
+200-203-16-66.paemt706.dsl.brasiltelecom.net.br
+0 73 41 615844 1 1180824473
+/como_chegar.asp
+c950c2b0.bhz.virtua.com.br
+0 38 29 507532 1 1181404326
+/matrizes.asp
+18912021082.user.veloxzone.com.br
+0 68 49 799206 1 1181422904
+/como_chegar.asp
+201-43-178-168.dsl.telesp.net.br
+0 35 31 435450 1 1181515421
+/matrizes.asp
+201.12.190.36
+0 92 77 791295 1 1182182760
+/absoluto.asp
+ct501307.inktomisearch.com
+0 1 0 4184 0 0
+-
+rz502618.inktomisearch.com
+0 1 1 0 1 1181610961
+/campolinas_famosos.asp
+195.112.226.200.in-addr.arpa.ig.com.br
+0 24 23 182858 1 1180816766
+/potroas.asp
+livebot-65-55-208-107.search.live.com
+0 4 3 4184 1 1181704192
+/programa.asp
+189.29.110.127
+0 120 78 1862921 1 1180691509
+/como_chegar.asp
+20132201137.user.veloxzone.com.br
+0 57 52 719568 1 1181747127
+/o_haras.asp
+livebot-65-55-208-110.search.live.com
+0 3 2 4184 1 1181700628
+/potroas.asp
+64.208.172.177
+0 13 10 12641 3 1182173406
+/programa.asp
+189-10-113-16.cbace700.dsl.brasiltelecom.net.br
+0 69 65 732274 1 1182201241
+/potroas.asp
+201.22.86.110.static.gvt.net.br
+0 16 16 381060 1 1181911986
+/
+by1sch2030315.phx.gbl
+0 3 2 4184 2 1182030086
+/fale_conosco.asp
+n198-169-189-000.static.online-age.net
+0 5 1 2957 0 0
+-
+200.223.93.89
+0 39 36 466711 1 1181730926
+/o_haras.asp
+20132230079.user.veloxzone.com.br
+0 33 31 499262 1 1181303679
+/potroas.asp
+200.247.134.5
+0 45 39 577518 1 1181048692
+/matrizes.asp
+201008119196.user.veloxzone.com.br
+0 184 117 1768173 1 1182276478
+/op.asp
+201.12.190.75
+0 202 124 2267968 1 1181657939
+/campolinas_famosos.asp
+231-119-196-200.linkexpress.com.br
+0 100 97 1656308 1 1181598888
+/fale_conosco_resp.asp
+200-168-44-37.dsl.telesp.net.br
+0 16 16 380700 1 1181841321
+/
+bhe201062162156.res-com.wayinternet.com.br
+0 33 32 444679 1 1181558835
+/reprodutor.asp
+66-194-6-83.static.twtelecom.net
+0 1 1 0 1 1180940541
+/
+user.223.178.4.201.dial-ip.telemar.net.br
+0 28 25 125220 1 1180775520
+/absoluto.asp
+201-67-151-120.bnut3703.dsl.brasiltelecom.net.br
+0 146 75 1544719 1 1180976628
+/potroas.asp
+189.0.251.89
+0 67 58 665513 1 1182285944
+/images/album1/images/Potra+Pampa+Mesti
+201-66-61-15.ctaje700.dsl.brasiltelecom.net.br
+0 44 43 572161 1 1181685033
+/campolinas_famosos.asp
+201-92-122-189.dsl.telesp.net.br
+0 25 21 307168 1 1181506103
+/absoluto.asp
+201-27-19-17.dsl.telesp.net.br
+0 73 41 1366781 1 1181658227
+/campolinas_famosos.asp
+200216108105.user.veloxzone.com.br
+0 117 84 1244338 1 1181077965
+/potroas.asp
+200.149.10.210
+0 1 0 4184 1 1181121189
+-
+200-96-143-189.cbace700.dsl.brasiltelecom.net.br
+0 15 15 292226 1 1181592509
+/
+201.12.188.106
+0 112 27 1538208 1 1181848662
+/potroas.asp
+200-233-211-061.xd-dynamic.ctbcnetsuper.com.br
+0 78 74 1780031 1 1180990716
+/matrizes.asp
+18913159116.user.veloxzone.com.br
+0 33 10 438136 2 1181124440
+/exposicoes.asp
+201-69-130-254.dial-up.telesp.net.br
+0 16 16 380700 1 1181239226
+/
+200.149.81.125
+0 16 6 15374 1 1181046758
+/
+20158097247.user.veloxzone.com.br
+0 165 160 3227949 1 1181501158
+/
+18912209176.user.veloxzone.com.br
+0 36 31 535395 1 1181058647
+/absoluto.asp
+200-232-236-160.dsl.telesp.net.br
+0 103 76 938223 1 1181993480
+/exposicoes.asp
+189.10.231.84
+0 55 47 975043 1 1180976336
+/campolinas_famosos.asp
+softbank221042240044.bbtec.net
+0 17 16 384903 1 1180730162
+/
+200.164.157.163
+0 47 45 639235 1 1181409176
+/campolinas_famosos.asp
+20150153159.user.veloxzone.com.br
+0 35 30 628202 2 1182076727
+/
+201-70-102-15.intelignet.com.br
+0 16 16 380700 1 1181507285
+/
+18924070203.user.veloxzone.com.br
+0 222 218 3919127 1 1182284573
+/
+200.167.238.66
+0 17 17 95511 0 0
+-
+200.202.197.131
+0 71 66 1739147 1 1181073884
+/o_haras.asp
+201.23.207.34.nqt.com.br
+0 80 79 855058 1 1182258672
+/reprodutor.asp
+201-75-226-226-am.cpe.vivax.com.br
+0 90 86 1075237 1 1182029706
+/images/album1/images/Potra+Pampa+Mesti
+18912020005.user.veloxzone.com.br
+0 153 95 1969024 1 1181152090
+/design.asp
+lj512267.crawl.yahoo.net
+0 1 0 4184 0 0
+-
+201-24-183-175.cbace702.dsl.brasiltelecom.net.br
+0 16 16 380700 1 1181155778
+/
+livebot-65-55-208-99.search.live.com
+0 2 1 4184 1 1182275960
+/
+200-103-185-130.mganm301b.ipd.brasiltelecom.net.br
+0 16 16 229642 1 1181682420
+/
+200-168-43-184.dsl.telesp.net.br
+0 110 68 1361861 1 1181155835
+/neruda.asp
+201-24-121-187.bnut3702.dsl.brasiltelecom.net.br
+0 87 54 939458 1 1180904557
+/exposicoes.asp
+201-74-7-149-sc.cpe.vivax.com.br
+0 25 25 417442 1 1182275961
+/images/album1/
+200-147-136-45.tlm.dialuol.com.br
+0 13 13 26263 1 1181230736
+/
+66-194-6-96.static.twtelecom.net
+0 1 1 0 1 1181278557
+/
+201-68-2-156.dsl.telesp.net.br
+0 57 52 670294 1 1182076658
+/matrizes.asp
+201.73.55.246
+0 28 26 421636 1 1181518027
+/como_chegar.asp
+20150000102.user.veloxzone.com.br
+0 91 54 1449986 1 1180983975
+/matrizes.asp
+201-42-161-121.dsl.telesp.net.br
+0 18 16 389005 1 1182282534
+/
+200.195.23.3
+0 18 17 165298 1 1181851973
+/reprodutor.asp
+18912050047.user.veloxzone.com.br
+0 122 96 2062086 1 1181156576
+/programa.asp
+200.131.33.15
+0 48 47 900643 1 1180691779
+/campolinas_famosos.asp
+200.133.3.243
+0 46 44 577751 1 1182268668
+/campolinas_famosos.asp
+201-42-170-127.dsl.telesp.net.br
+0 31 29 432919 1 1181745317
+/como_chegar.asp
+189-015-115-132.xd-dynamic.ctbcnetsuper.com.br
+0 46 36 556623 1 1182083167
+/matrizes.asp
+200.222.60.189
+0 57 55 628909 1 1182256462
+/images/album1/images/Potra+Pampa+Mesti
+200.195.71.66
+0 28 28 552428 1 1181576312
+/como_chegar.asp
+200-100-41-73.dial-up.telesp.net.br
+0 50 44 551139 1 1180794120
+/campolinas_famosos.asp
+201.32.157.139
+0 93 91 2429102 1 1180739666
+/potroas.asp
+201008115227.user.veloxzone.com.br
+0 64 53 1131234 1 1181680738
+/neruda.asp
+200.169.127.131
+0 493 412 7382313 1 1181472329
+/o_haras.asp
+200-168-81-96.dsl.telesp.net.br
+0 83 77 1008254 1 1182278444
+/exposicoes.asp
+201-11-170-38.gnace701.dsl.brasiltelecom.net.br
+0 62 54 713093 1 1181489052
+/programa.asp
+189.29.71.49
+0 62 42 542936 1 1181203595
+/neruda.asp
+proxypm.mg.gov.br
+0 70 68 1374532 1 1181645026
+/programa.asp
+201-0-103-95.dsl.telesp.net.br
+0 17 9 414045 1 1181723239
+/campolinas_famosos.asp
+189.0.196.109
+0 21 20 308142 1 1181726444
+/como_chegar.asp
+201.67.216.55
+0 103 67 1229785 1 1182002689
+/matrizes.asp
+18912102057.user.veloxzone.com.br
+0 83 69 837996 1 1181743768
+/exposicoes.asp
+lager.netcraft.com
+0 1 1 0 1 1182007918
+/
+200.244.31.2
+0 106 103 1640570 1 1181220753
+/programa.asp
+201-68-42-166.dsl.telesp.net.br
+0 17 16 384903 1 1181233222
+/
+200.166.59.132
+0 188 134 2661104 1 1182273143
+/campolinas_famosos.asp
+89.214.9.187
+0 16 16 163746 1 1181582749
+/
+sls-gb15p2.dca2.superb.net
+0 10 9 4273 2 1181077324
+/fale_conosco.asp
+20150014201.user.veloxzone.com.br
+0 31 28 515066 1 1182164427
+/absoluto.asp
+201-2-246-20.bnut3702.dsl.brasiltelecom.net.br
+0 16 16 380700 1 1181754083
+/
+201-24-225-44.ctaje700.dsl.brasiltelecom.net.br
+0 55 53 556068 1 1182010669
+/images/album1/thumbnails/Potra+pampa+mesti
+rz502676.inktomisearch.com
+0 1 1 0 1 1182236172
+/matrizes.asp
+201-1-183-110.dsl.telesp.net.br
+0 176 138 3125586 1 1181642240
+/geodo.asp
+20129243194.user.veloxzone.com.br
+0 66 63 660908 1 1182264051
+/potroas.asp
+rz502626.inktomisearch.com
+0 1 1 0 1 1182206546
+/reprodutor.asp
+201-68-46-232.dsl.telesp.net.br
+0 106 63 915066 1 1182210394
+/matrizes.asp
+201-41-92-238.gnace703.dsl.brasiltelecom.net.br
+0 73 50 781773 1 1180783429
+/campolinas_famosos.asp
+201-048-002-222.xd-dynamic.ctbcnetsuper.com.br
+0 47 44 618478 1 1181422353
+/campolinas_famosos.asp
+201-89-211-232.mganm703.dsl.brasiltelecom.net.br
+0 46 45 572690 1 1181685876
+/campolinas_famosos.asp
+66-194-6-84.static.twtelecom.net
+0 1 1 0 1 1181987281
+/
+lj612540.crawl.yahoo.net
+0 1 0 4184 0 0
+-
+201-1-135-132.dsl.telesp.net.br
+0 83 54 1295686 1 1181399611
+/neruda.asp
+201-46-123-26.telesat.net.br
+0 91 76 3141856 1 1181748568
+/o_haras.asp
+20132222210.user.veloxzone.com.br
+0 53 45 639956 1 1181920718
+/campolinas_famosos.asp
+20178152106.user.veloxzone.com.br
+0 57 56 1525780 1 1181512728
+/campolinas_famosos.asp
+rz502489.inktomisearch.com
+0 2 2 0 2 1181971475
+/
+200-138-218-13.bnut3702.e.brasiltelecom.net.br
+0 59 58 644312 1 1182270520
+/images/album1/images/Potra+pampa+mesti
+200-140-82-81.bsace706.dsl.brasiltelecom.net.br
+0 46 3 39384 1 1181647523
+/potroas.asp
+201.41.252.47
+0 76 62 642909 1 1181852413
+/fale_conosco.asp
+20150002153.user.veloxzone.com.br
+0 16 16 380599 1 1182078725
+/
+201-1-11-55.dsl.telesp.net.br
+0 64 49 663002 1 1180754270
+/reprodutor.asp
+201-1-168-132.dsl.telesp.net.br
+0 29 26 378660 1 1181683216
+/como_chegar.asp
+20151115085.user.veloxzone.com.br
+0 40 37 494578 1 1181675753
+/como_chegar.asp
+201-048-160-224.xd-dynamic.ctbcnetsuper.com.br
+0 48 41 777942 1 1180890820
+/reprodutor.asp
+20150021198.user.veloxzone.com.br
+0 43 35 648980 1 1180695971
+/matrizes.asp
+200.167.139.130
+0 39 37 441596 1 1180948995
+/
+c953a167.virtua.com.br
+0 41 32 465158 1 1180692816
+/design.asp
+189-015-76-243.xd-dynamic.ctbcnetsuper.com.br
+0 16 16 380700 1 1181333728
+/
+201-34-65-245.cslce701.dsl.brasiltelecom.net.br
+0 17 16 384903 1 1181581754
+/
+201.30.20.131
+0 60 59 675518 1 1181038231
+/o_haras.asp
+c-71-232-201-50.hsd1.ma.comcast.net
+0 17 16 384802 1 1182068933
+/
+ct501311.inktomisearch.com
+0 2 0 8368 0 0
+-
+ip90.wb.com.br
+0 38 36 503468 1 1181039408
+/o_haras.asp
+rz502547.inktomisearch.com
+0 1 1 0 1 1182236615
+/potroas.asp
+20132237136.user.veloxzone.com.br
+0 67 49 1014624 3 1181987041
+/
+189.3.114.155
+0 46 44 559427 1 1180776497
+/campolinas_famosos.asp
+189.23.100.3
+0 211 85 1531321 3 1181845774
+/matrizes.asp
+201.32.237.136
+0 38 35 572261 1 1181826695
+/potroas.asp
+200-103-122-215.bsace705.dsl.brasiltelecom.net.br
+0 49 9 72714 1 1181309210
+/design.asp
+20150123076.user.veloxzone.com.br
+0 136 83 1266870 1 1181503915
+/como_chegar.asp
+lj611966.crawl.yahoo.net
+0 2 0 8368 0 0
+-
+livebot-65-55-208-101.search.live.com
+0 2 1 4184 1 1181703964
+/o_haras.asp
+20132199118.user.veloxzone.com.br
+0 54 45 683824 1 1182026636
+/campolinas_famosos.asp
+livebot-65-55-208-109.search.live.com
+0 2 0 8457 1 1181701818
+-
+201.56.49.160
+0 89 83 852599 1 1182262052
+/images/album1/images/Potra+Pampa+Mesti
+201.70.172.134
+0 274 253 2202876 1 1180697907
+/neruda.asp
+20119050219.user.veloxzone.com.br
+0 16 16 380700 1 1181394122
+/
+ct501269.inktomisearch.com
+0 3 3 0 3 1182008782
+/
+20179129122.user.veloxzone.com.br
+0 30 27 369559 1 1182107215
+/absoluto.asp
+201-40-35-63.gnace703.dsl.brasiltelecom.net.br
+0 49 47 856009 1 1181767717
+/campolinas_famosos.asp
+200-101-18-176.bsace706.dsl.brasiltelecom.net.br
+0 29 2 8487 1 1181952727
+/matrizes.asp
+201008149180.user.veloxzone.com.br
+0 98 56 1114884 1 1181592250
+/
+18913150035.user.veloxzone.com.br
+0 99 89 1245317 2 1182120262
+/campolinas_famosos.asp
+66-194-6-97.static.twtelecom.net
+0 2 2 0 2 1181526307
+/
+201008173202.user.veloxzone.com.br
+0 36 29 437714 1 1182083108
+/op.asp
+201-70-4.2.passelivre.com.br
+0 183 97 2463037 1 1181595069
+/exposicoes.asp
+66-194-6-94.static.twtelecom.net
+0 1 1 0 1 1182237600
+/
+200-215-70-167.wireless.netxan.com.br
+0 133 87 1390919 1 1181495554
+/o_haras.asp
+201009251140.user.veloxzone.com.br
+0 57 55 688981 1 1180825609
+/matrizes.asp
+200.97.63.60
+0 17 16 167949 1 1181068470
+/
+200.166.120.2
+0 54 53 564413 1 1180954075
+/exposicoes.asp
+201.38.165.3
+0 109 74 1672957 1 1181048378
+/exposicoes.asp
+66-194-6-75.static.twtelecom.net
+0 1 1 0 1 1182113495
+/
+201008156198.user.veloxzone.com.br
+0 98 93 1152520 2 1181050015
+/o_haras.asp
+66-194-6-91.static.twtelecom.net
+0 1 1 0 1 1181052762
+/
+lj612058.crawl.yahoo.net
+0 4 4 0 4 1181929953
+/
+201.32.81.245
+0 44 32 556106 1 1181225575
+/op.asp
+200.214.130.18
+0 45 44 392114 1 1182124436
+/
+20158237076.user.veloxzone.com.br
+0 64 62 891187 1 1181548637
+/matrizes.asp
+20158161161.user.veloxzone.com.br
+0 16 16 229282 1 1181318612
+/
+201-36-81-2-ssa-gw0-core.g4group.com.br
+0 93 85 1270782 3 1181241592
+/exposicoes.asp
+20150059207.user.veloxzone.com.br
+0 54 42 717355 1 1181679434
+/potroas.asp
+201-24-18-186.bsace706.dsl.brasiltelecom.net.br
+0 29 2 8487 1 1181128537
+/matrizes.asp
+20151232167.user.veloxzone.com.br
+0 46 43 727210 1 1181503459
+/geodo.asp
+150.164.2.163
+0 64 56 34023 5 1181709873
+/neruda.asp
+150.164.2.168
+0 156 19 569056 3 1181904610
+/sublime.asp
+user.50.150.97.200.dial.telemar.net.br
+0 148 68 1842437 1 1181149005
+/sublime.asp
+195.234.134.115
+0 31 30 442264 1 1181031933
+/potroas.asp
+20179131123.user.veloxzone.com.br
+0 163 118 1794586 1 1182099604
+/
+rz502470.inktomisearch.com
+0 1 1 0 1 1181613667
+/programa.asp
+lj511273.crawl.yahoo.net
+0 1 1 0 1 1181038231
+/
+189.24.23.61
+0 43 35 577266 1 1181748766
+/exposicoes.asp
+200.174.201.5
+0 108 63 2180162 1 1181767728
+/campolinas_famosos.asp
+189.3.167.134
+0 151 98 2003876 1 1180971504
+/matrizes.asp
+c950138f.bhz.virtua.com.br
+0 48 45 628983 1 1181434163
+/campolinas_famosos.asp
+15.104.226.200.in-addr.arpa.ig.com.br
+0 75 58 647246 1 1182131536
+/
+rz502526.inktomisearch.com
+0 1 1 0 1 1182234534
+/exposicoes.asp
+cmb-aur.br10.com.br
+0 82 77 1048863 1 1182112087
+/como_chegar.asp
+201-25-2-78.paemt705.dsl.brasiltelecom.net.br
+0 119 73 1393673 1 1181208801
+/reprodutor.asp
+20132210163.user.veloxzone.com.br
+0 551 288 2408191 2 1182014562
+/
+rz502548.inktomisearch.com
+0 3 0 12819 3 1182207571
+-
+201.12.63.19
+0 49 11 112686 1 1182276385
+/matrizes.asp
+201-15-77-17.bsace704.dsl.brasiltelecom.net.br
+0 52 37 505870 1 1180695467
+/neruda.asp
+200-103-113-78.bsace705.dsl.brasiltelecom.net.br
+0 49 39 593944 1 1181120726
+/fale_conosco_resp.asp
+user.70.41.4.201.dial-ip.telemar.net.br
+0 151 98 1033631 2 1180971141
+/fale_conosco_resp.asp
+200.149.81.44
+0 45 35 434980 1 1180993942
+/o_haras.asp
+200.149.81.45
+0 31 5 10050 1 1181250509
+/fale_conosco_resp.asp
+20129200043.user.veloxzone.com.br
+0 61 49 958686 1 1181836042
+/campolinas_famosos.asp
+cache0.pbh.gov.br
+0 61 59 1521667 1 1181429486
+/potroas.asp
+189.3.138.62
+0 56 54 1051010 1 1181845407
+/absoluto.asp
+bhe201062200044.res-com.wayinternet.com.br
+0 70 55 857896 1 1181318704
+/como_chegar.asp
+200.223.62.196
+0 78 66 906240 3 1181154976
+/absoluto.asp
+200.217.209.229
+0 16 16 381060 1 1180982520
+/
+200.149.81.57
+0 42 33 459471 1 1181863652
+/potroas.asp
+200-161-155-117.dsl.telesp.net.br
+0 59 56 723400 1 1181570510
+/campolinas_famosos.asp
+201-42-215-130.dsl.telesp.net.br
+0 28 26 421098 1 1180728957
+/como_chegar.asp
+200.199.140.242
+0 36 34 572833 1 1182172449
+/design.asp
+200-206-164-10.dsl.telesp.net.br
+0 68 57 825012 1 1180732981
+/como_chegar.asp
+201-11-161-42.bsace704.dsl.brasiltelecom.net.br
+0 49 47 841901 1 1181842726
+/campolinas_famosos.asp
+200.202.200.18
+0 62 50 1174529 1 1181753825
+/campolinas_famosos.asp
+200.219.181.145
+0 40 31 455850 1 1180728377
+/reprodutor.asp
+200.195.63.113
+0 100 62 700712 1 1181987431
+/reprodutor.asp
+livebot-65-55-208-100.search.live.com
+0 2 1 4184 1 1181699598
+/exposicoes.asp
+200-100-48-236.dial-up.telesp.net.br
+0 92 58 587161 1 1181240608
+/como_chegar.asp
+livebot-65-55-208-108.search.live.com
+0 7 4 12552 3 1181701105
+/fale_conosco.asp
+200-147-79-221.tlm.dialuol.com.br
+0 39 36 690255 1 1181679273
+/como_chegar.asp
+200.144.75.5
+0 229 112 2937101 1 1181351832
+/campolinas_famosos.asp
+18913238129.user.veloxzone.com.br
+0 32 30 442429 1 1181860102
+/potroas.asp
+18912025116.user.veloxzone.com.br
+0 103 80 991215 1 1181716640
+/campolinas_famosos.asp
+200.198.95.173
+0 197 190 4301476 2 1182181345
+/exposicoes.asp
+20150128126.user.veloxzone.com.br
+0 55 46 540193 1 1181905420
+/programa.asp
+201-93-221-30.dsl.telesp.net.br
+0 66 47 836001 1 1182114536
+/o_haras.asp
+cpu005703.ba.gov.br
+0 1 1 0 1 1181917251
+/
+c950c86a.bhz.virtua.com.br
+0 31 30 442264 1 1180784492
+/potroas.asp
+20150053091.user.veloxzone.com.br
+0 79 61 1903671 1 1182014231
+/
+200.214.145.132
+0 32 31 496192 1 1181118058
+/potroas.asp
+189.6.81.99
+0 83 60 1113403 1 1180876180
+/campolinas_famosos.asp
+crawler4.irl.cs.tamu.edu
+0 1 0 4203 0 0
+-
+201-92-153-189.dsl.telesp.net.br
+0 73 59 882884 1 1181585883
+/matrizes.asp
+livebot-65-55-212-70.search.live.com
+0 68 59 2430580 7 1182281956
+-
+201-1-221-15.dsl.telesp.net.br
+0 16 16 380700 1 1181222401
+/
+20178084230.user.veloxzone.com.br
+0 32 29 513124 1 1181662094
+/matrizes.asp
+119.54.234.200.in-addr.arpa.ig.com.br
+0 42 36 490662 1 1180713538
+/como_chegar.asp
+200.149.167.62
+0 13 7 6636 1 1182076904
+/
+201009252172.user.veloxzone.com.br
+0 125 100 1303745 1 1182089761
+/reprodutor.asp
+20132185203.user.veloxzone.com.br
+0 306 138 3359372 5 1181740516
+/como_chegar.asp
+c911103b.rjo.virtua.com.br
+0 39 38 476263 1 1180709528
+/fale_conosco.asp
+20178182059.user.veloxzone.com.br
+0 16 16 380700 1 1180713414
+/
+201008095097.user.veloxzone.com.br
+0 310 49 1009815 1 1180880444
+/op.asp
+20129180206.user.veloxzone.com.br
+0 308 147 4449428 1 1180870636
+/exposicoes.asp
+200.166.51.158
+0 36 35 472697 1 1182202540
+/
+200.216.141.164
+0 35 32 253130 1 1180690216
+/o_haras.asp
+rz502641.inktomisearch.com
+0 1 1 0 1 1182258692
+/como_chegar.asp
+201-10-157-250.gnace701.dsl.brasiltelecom.net.br
+0 41 40 595282 1 1180962970
+/campolinas_famosos.asp
+200-138-98-57.ctame706.dsl.brasiltelecom.net.br
+0 65 45 891601 1 1181299563
+/matrizes.asp
+# End Of Table - sites (monthly)
+# -sites- (daily)
+200-98-40-63.tlf.dialuol.com.br
+0 55 53 626823 1 1182269688
+/images/album1/thumbnails/Potra+pampa+mesti
+200-103-88-156.cbace700.dsl.brasiltelecom.net.br
+0 153 115 1682219 1 1182271145
+/reprodutor.asp
+189-10-28-141.bsaco700.dsl.brasiltelecom.net.br
+0 55 52 892366 1 1182256472
+/images/album1/thumbnails/Potra+pampa+mesti
+rz502549.inktomisearch.com
+0 1 1 0 1 1182236849
+/fale_conosco.asp
+20178009118.user.veloxzone.com.br
+0 33 17 387276 1 1182287990
+/
+18913119170.user.veloxzone.com.br
+0 81 72 742850 1 1182264868
+/potroas.asp
+201008119196.user.veloxzone.com.br
+0 184 117 1768173 1 1182276478
+/op.asp
+189.0.251.89
+0 67 58 665513 1 1182285944
+/images/album1/images/Potra+Pampa+Mesti
+18924070203.user.veloxzone.com.br
+0 222 218 3919127 1 1182284573
+/
+201.23.207.34.nqt.com.br
+0 80 79 855058 1 1182258672
+/reprodutor.asp
+livebot-65-55-208-99.search.live.com
+0 2 1 4184 1 1182275960
+/
+201-74-7-149-sc.cpe.vivax.com.br
+0 25 25 417442 1 1182275961
+/images/album1/
+201-42-161-121.dsl.telesp.net.br
+0 18 16 389005 1 1182282534
+/
+200.133.3.243
+0 46 44 577751 1 1182268668
+/campolinas_famosos.asp
+200.222.60.189
+0 57 55 628909 1 1182256462
+/images/album1/images/Potra+Pampa+Mesti
+200-168-81-96.dsl.telesp.net.br
+0 83 77 1008254 1 1182278444
+/exposicoes.asp
+200.166.59.132
+0 188 134 2661104 1 1182273143
+/campolinas_famosos.asp
+rz502676.inktomisearch.com
+0 1 1 0 1 1182236172
+/matrizes.asp
+20129243194.user.veloxzone.com.br
+0 66 63 660908 1 1182264051
+/potroas.asp
+201-68-46-232.dsl.telesp.net.br
+0 13 0 54639 0 0
+-
+200-138-218-13.bnut3702.e.brasiltelecom.net.br
+0 59 58 644312 1 1182270520
+/images/album1/images/Potra+pampa+mesti
+rz502547.inktomisearch.com
+0 1 1 0 1 1182236615
+/potroas.asp
+lj611966.crawl.yahoo.net
+0 2 0 8368 0 0
+-
+201.56.49.160
+0 89 83 852599 1 1182262052
+/images/album1/images/Potra+Pampa+Mesti
+66-194-6-94.static.twtelecom.net
+0 1 1 0 1 1182237600
+/
+rz502526.inktomisearch.com
+0 1 1 0 1 1182234534
+/exposicoes.asp
+201.12.63.19
+0 49 11 112686 1 1182276385
+/matrizes.asp
+livebot-65-55-212-70.search.live.com
+0 31 25 1074985 5 1182281956
+-
+rz502641.inktomisearch.com
+0 1 1 0 1 1182258692
+/como_chegar.asp
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+# -Error404- 
+/images/images/in_r5_c17.gif,(pas de référant)
+1
+/infra_in.htm,(pas de référant)
+3
+/images/images/in_r2_c19.gif,(pas de référant)
+1
+/images/matrizes/05.jpg,(pas de référant)
+3
+/,(pas de référant)
+5
+/images/in_r2_c19.jpg,(pas de référant)
+2
+/images/site_r4_c6.jpg,(pas de référant)
+1
+/images/images/in_r4_c2.jpg,(pas de référant)
+1
+/images/images/in_r5_c12.jpg,(pas de référant)
+1
+/images/in_r5_c11.jpg,(pas de référant)
+2
+/images/images/in_r5_c10_f2.gif,(pas de référant)
+1
+/Haras+Luanda_arquivos/pr+,(pas de référant)
+1
+/images/site_r1_c1.jpg,(pas de référant)
+2
+/images/images/in_r2_c14.jpg,(pas de référant)
+1
+/_vti_bin/owssvr.dll,(pas de référant)
+13
+/css/images/shim.gif,(pas de référant)
+5871
+/images/images/in_r2_c11_f2.gif,(pas de référant)
+1
+/images/site_r2_c5.jpg,(pas de référant)
+2
+/images/images/in_r2_c1.jpg,(pas de référant)
+1
+/expositores.asp,(pas de référant)
+15
+/haras/frame.htm,(pas de référant)
+1
+/images/site_r2_c17.jpg,(pas de référant)
+2
+/images/in_r2_c6.jpg,(pas de référant)
+2
+/fale.htm,(pas de référant)
+4
+/css/images/overlay.png,(pas de référant)
+43
+/images/in_r6_c11.jpg,(pas de référant)
+2
+/images/in_r5_c18.jpg,(pas de référant)
+2
+/images/images/in_r2_c4_f2.gif,(pas de référant)
+1
+/images/images/in_r2_c7.gif,(pas de référant)
+1
+/images/images/in_r5_c6.gif,(pas de référant)
+1
+/images/site_r3_c17.jpg,(pas de référant)
+1
+/images/in_r4_c8.jpg,(pas de référant)
+2
+/images/images/in_r2_c19_f2.gif,(pas de référant)
+1
+/images/images/in_r5_c13_f2.gif,(pas de référant)
+1
+/images/in_r6_c18.jpg,(pas de référant)
+2
+/images/site_r2_c6.jpg,(pas de référant)
+2
+/images/site_r2_c18.jpg,(pas de référant)
+2
+/images/in_r2_c7.jpg,(pas de référant)
+2
+/index2.htm,(pas de référant)
+1
+/images/site_r5_c10.jpg,(pas de référant)
+1
+/in.jpg,(pas de référant)
+2
+/images/site_r2_c12.jpg,(pas de référant)
+2
+/images/site_r3_c4.jpg,(pas de référant)
+1
+/images/images/in_r3_c15.jpg,(pas de référant)
+1
+/images/site_r4_c8.jpg,(pas de référant)
+1
+/images/images/in_r2_c7_f2.gif,(pas de référant)
+1
+/images/images/in_r2_c9.jpg,(pas de référant)
+1
+/images/images/in_r5_c13.gif,(pas de référant)
+1
+/images/images/in_r5_c8.jpg,(pas de référant)
+1
+/images/in_r5_c13.jpg,(pas de référant)
+2
+/Haras+Luanda_arquivos/reprodutor_in.htm,(pas de référant)
+1
+/images/images/in_r2_c15.gif,(pas de référant)
+1
+/images/images/in_r2_c2.gif,(pas de référant)
+2
+/images/images/in_r2_c2_f2.gif,(pas de référant)
+1
+/Haras+Luanda_arquivos/potros_in.html,(pas de référant)
+1
+/images/album1/useraudio.mp3,(pas de référant)
+37
+/images/images/in_r7_c13.jpg,(pas de référant)
+1
+/images/in_r2_c15.jpg,(pas de référant)
+2
+/images/site_r4_c2.jpg,(pas de référant)
+1
+/images/site_r2_c7.jpg,(pas de référant)
+2
+/images/images/in_r2_c3.jpg,(pas de référant)
+1
+/images/in_r2_c8.jpg,(pas de référant)
+2
+/images/in_r6_c13.jpg,(pas de référant)
+3
+/images/site_r2_c1.jpg,(pas de référant)
+2
+/images/images/in_r2_c21.jpg,(pas de référant)
+1
+/images/in_r2_c20.jpg,(pas de référant)
+3
+/images/site_r2_c13.jpg,(pas de référant)
+2
+/bd/,(pas de référant)
+1
+/images/in_r3_c6.jpg,(pas de référant)
+2
+/2_arquivos/doadoras_in.htm,(pas de référant)
+1
+/patroas.asp,(pas de référant)
+2
+/images/site_r2_c8.jpg,(pas de référant)
+2
+/images/site_r3_c13.jpg,(pas de référant)
+1
+/images/in_r4_c4.jpg,(pas de référant)
+2
+/MSOffice/cltreq.asp,(pas de référant)
+13
+/Haras+Luanda_arquivos/origem_in.htm,(pas de référant)
+2
+/images/images/in_r5_c20.jpg,(pas de référant)
+1
+/a/BelaitaparicaLuanda.jpg,(pas de référant)
+2
+/images/in_r2_c10.jpg,(pas de référant)
+2
+/images/site_r2_c2.jpg,(pas de référant)
+2
+/images/images/in_r5_c6_f2.gif,(pas de référant)
+1
+/images/images/in_r2_c15_f2.gif,(pas de référant)
+1
+/infra.htm,(pas de référant)
+1
+/images/images/in_r5_c16.jpg,(pas de référant)
+1
+/undefined,(pas de référant)
+1
+/images/images/in_r1_c1.jpg,(pas de référant)
+1
+/images/images/in_r2_c4.gif,(pas de référant)
+2
+/images/images/in_r2_c18.jpg,(pas de référant)
+1
+/images/in_r2_c17.jpg,(pas de référant)
+2
+/images/images/in_r2_c5.jpg,(pas de référant)
+1
+/images/images/spacer.gif,(pas de référant)
+1
+/images/site_r5_c8.jpg,(pas de référant)
+1
+/fotos/KatarinaJ.H.R.jpg,(pas de référant)
+5
+/images/images/in_r2_c11.gif,(pas de référant)
+1
+/images/pt-BR_popup_blocker.gif,(pas de référant)
+1
+/images/site_r2_c3.jpg,(pas de référant)
+2
+/images/images/in_r5_c17_f2.gif,(pas de référant)
+1
+/images/site_r2_c15.jpg,(pas de référant)
+2
+/images/in_r2_c4.jpg,(pas de référant)
+2
+/images/images/in_r4_c11.jpg,(pas de référant)
+1
+/images/in_r4_c10.jpg,(pas de référant)
+2
+/images/images/in_r4_c7.jpg,(pas de référant)
+1
+/images/images/in_r7_c6.jpg,(pas de référant)
+1
+/espotros_in.htm,(pas de référant)
+1
+/index2.html,(pas de référant)
+2
+/favicon.ico,(pas de référant)
+2112
+/robots.txt,(pas de référant)
+385
+/images/images/in_r5_c10.gif,(pas de référant)
+1
+/images/site_r5_c9.jpg,(pas de référant)
+1
+/images/images/in_r5_c5.jpg,(pas de référant)
+1
+/images/contato.gif,(pas de référant)
+3
+/intl/pt-BR_br/images/logo.gif,(pas de référant)
+1
+/images/in_r5_c10.jpg,(pas de référant)
+2
+/default.aspx,(pas de référant)
+3
+/fotos/Justi+,(pas de référant)
+4
+/images/in_r5_c21.jpg,(pas de référant)
+3
+/images/images/in_r7_c10.jpg,(pas de référant)
+1
+/images/images/in_r6_c17.jpg,(pas de référant)
+1
+/images/site_r2_c4.jpg,(pas de référant)
+2
+/images/images/in_r3_c4.jpg,(pas de référant)
+1
+/fotos/xang+,(pas de référant)
+4
+/images/images/in_r3_c19.jpg,(pas de référant)
+1
+/Haras+Luanda_arquivos/matrizes_in.htm,(pas de référant)
+1
+# End Of Table - Error404-

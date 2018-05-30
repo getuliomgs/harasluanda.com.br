@@ -1,0 +1,107 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.corpo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.corpo_ver {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+.corpo_ver_pq {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF0000;
+}
+
+.corpo_tit {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+
+
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: underline;
+	color: #666666;
+}
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+.style1 {
+	font-size: 12px
+}
+.corp_form {
+	BORDER-RIGHT: #ffffff; BORDER-TOP: #ffffff; FONT-SIZE: 10px; BORDER-LEFT: #ffffff; COLOR: #333333; BORDER-BOTTOM: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #CCCCCC
+}
+.corpo_cla {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #999999;
+}
+.form_bra {
+	BORDER-RIGHT: #ffffff; BORDER-TOP: #ffffff; FONT-SIZE: 10px; BORDER-LEFT: #ffffff; COLOR: #000000; BORDER-BOTTOM: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #FFFFFF
+}
+.corpo_lar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF6600;
+}
+.bg {
+	background-color:#666666
+}
+
+ul.flipMenu {
+	margin-top: 10px;
+	margin-left: 25px; 
+	*list-style-type: none;
+	font-size: 11px;
+	color:#000000;
+	margin-bottom: 5px; 
+}
+
+ul a {
+	color:#000000;
+}
+
+ul span {
+	color:#000000;
+}
+
+ul.flipMenu ul, ul.flipMenu li {
+	 padding-top: 2px;
+	 margin-left: 2px; 
+	 margin_right: 0px;
+	 list-style-type:disc;
+	 color:#FF9900;
+}
+
+li.flipFolderOpen { 
+	cursor: pointer; 
+	list-style-image: url(imagens/seta_aberta.gif);
+}
+
+li.flipFolderOpen span {
+	font-weight:bold;
+}
+
+li.flipFolderClosed {
+ cursor: pointer;
+ list-style-image: url(imagens/seta_fechada.gif);
+ font-weight:bold;
+}

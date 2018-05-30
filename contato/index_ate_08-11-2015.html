@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>HARAS LUANDA | Campolina e Pampa</title>
+
+<link rel="icon" href="http://www.harasluanda.com.br/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.harasluanda.com.br/img/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
+<script language="JavaScript">
+function validaCampoObrigatorio(form){
+            var erro=0;
+            var legenda;
+            var obrigatorio;          
+            for (i=0;i<form.length;i++){
+                        obrigatorio = form[i].lang;
+                        if (obrigatorio==1){
+                                   if (form[i].value == ""){
+                                               var nome = form[i].name;
+                                               mudarCorCampo(form[i], '#a18838');
+                                               legenda=document.getElementById(nome);
+                                               legenda.style.color="#000000";
+                                               erro++;
+                                   }
+                        }
+            }
+            if(erro>=1){
+                        alert("É necessário preencher o(s) campo(s) em destaque!")
+                        return false;
+            } else
+                        return true;
+}
+
+function mudarCorCampo(elemento, cor){
+            elemento.style.backgroundColor=cor;
+}
+</script>
+</head>
+
+<body>
+<div id="geral">
+<div id="topo">
+  <div align="center">
+  
+  <div id="madeira_topo">
+    <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','765','height','28','src','../swf/menu_topo_contato','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','../swf/menu_topo_contato' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="765" height="28">
+      <param name="movie" value="../swf/menu_topo_contato.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="../swf/menu_topo_contato.swf" width="765" height="28" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </noscript></div>
+  </div>
+</div>
+
+<div align="center">
+
+<div id="principal">
+	<div id="lateral_esquerda">
+		<div id="marca">
+		  <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','184','height','163','src','../swf/marca_interna','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','../swf/marca_interna' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="184" height="163">
+            <param name="movie" value="../swf/marca_interna.swf" />
+            <param name="quality" value="high" />
+            <param name="wmode" value="transparent" />
+            <embed src="../swf/marca_interna.swf" width="184" height="163" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+	      </object>
+		</noscript></div>
+		<div id="menu_lateral">
+		  <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','184','height','307','src','../swf/menu_lateral_padrao','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','../swf/menu_lateral_padrao' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="184" height="307">
+            <param name="movie" value="../swf/menu_lateral_padrao.swf" />
+            <param name="quality" value="high" />
+            <param name="wmode" value="transparent" />
+            <embed src="../swf/menu_lateral_padrao.swf" width="184" height="307" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+	      </object>
+		</noscript></div>
+	</div>
+	
+	<div id="conteudo">
+		<div class="png" id="conteudo_interno">
+		  <div id="banner">
+		  <script language="JavaScript">
+hoje = new Date()
+numero_de_imagens = 2
+segundos = hoje.getSeconds()
+numero = segundos % numero_de_imagens
+if (numero == 0){
+swf = "../swf/banner.swf"
+}
+if (numero == 1){
+swf = "../swf/banner2.swf"
+}
+
+document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="581" height="172"><param name="movie" value="' + swf + '"><param name="quality" value="high"><embed src="' + swf + '" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="581" height="172"></embed></object>')
+</script>
+		  </div>
+		  <div id="destaques_home">
+		  <div id="tit_internas"><img src="img/tit_contato.gif" width="307" height="40" border="0" /><br />  
+	        </div>
+			
+			
+			
+			<div id="voltar">
+			  <table width="55" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><a href="javascript:history.back(1);"><img src="../img/bt_voltar.gif" width="14" height="18" border="0" /></a></td>
+                  <td width="60" align="right"><a href="javascript:history.back(1);">Voltar</a></td>
+                </tr>
+              </table>
+		    </div>
+			<div id="somente_texto_interno">
+			  <div id="form_contato">
+			    <table width="260" border="0" cellspacing="0" cellpadding="0"><form action="http://hospedagem.terraempresas.com.br/cgi-bin/FormMail.pl" method="post" onSubmit="return validaCampoObrigatorio(this)">
+			    <input type="hidden" name="subject" value="Contato | Site Haras Luanda" />
+				<input type="hidden" name="destination" value="harasluanda@gmail.com" />
+				<input type="hidden" name="feedback" value="http://www.harasluanda.com.br/contato/contato_confirma.html" />
+                  <tr>
+                    <td>
+			    <table width="260" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td colspan="3"><span class="campo_obrigatorio">*</span> Nome: </td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><input name="Nome" type="text" class="form_maior" id="Nome" size="" lang="1" onFocus="mudarCorCampo(this,'white')" /></td>
+                  </tr>
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><span class="campo_obrigatorio">*</span> E-mail:</td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><input name="email" type="text" class="form_maior" id="email" size="" lang="1" onFocus="mudarCorCampo(this,'white')" /></td>
+                  </tr>
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td align="left"><span class="campo_obrigatorio">*</span> Telefone:</td>
+                    <td>&nbsp;</td>
+                    <td align="left"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="6">&nbsp;</td>
+                        <td width="94"><span class="campo_obrigatorio">*</span> Celular:</td>
+                      </tr>
+                    </table>                    </td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3" align="left"></td>
+                  </tr>
+                  <tr>
+                    <td align="left"><input name="Telefone" type="text" class="form_menor" id="Telefone" size="" lang="1" onFocus="mudarCorCampo(this,'white')" /></td>
+                    <td>&nbsp;</td>
+                    <td align="right"><input name="Celular" type="text" class="form_menor" id="Celular" size="" lang="1" onFocus="mudarCorCampo(this,'white')" /></td>
+                  </tr>
+                  
+                  <tr>
+                    <td colspan="3">                      </td>
+                  </tr>
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><span class="campo_obrigatorio">*</span> Endere&ccedil;o:</td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><input name="Endereço" type="text" class="form_maior" id="Endereço" size="" lang="1" onFocus="mudarCorCampo(this,'white')" />
+					</td>
+                  </tr>
+                  
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td align="left"><span class="campo_obrigatorio">*</span> Cidade:</td>
+                    <td>&nbsp;</td>
+                    <td align="left"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="6">&nbsp;</td>
+                          <td width="94"><span class="campo_obrigatorio">*</span> Estado:</td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3" align="left"></td>
+                  </tr>
+                  <tr>
+                    <td align="left"><input name="Cidade" type="text" class="form_menor" id="Cidade" size="" lang="1" onFocus="mudarCorCampo(this,'white')" /></td>
+                    <td>&nbsp;</td>
+                    <td align="left">
+                      <table width="100" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="6">&nbsp;</td>
+                          <td width="94">
+						  	  <select name="Estado" class="form" id="Estado">
+                                            <option value="AC">AC </option>
+                                            <option value="AL">AL </option>
+                                            <option value="AM">AM </option>
+                                            <option value="AP">AP </option>
+											<option value="BA" selected="selected">BA </option>
+                                            <option value="CE">CE </option>
+                                            <option value="DF">DF </option>
+                                            <option value="ES">ES </option>
+                                            <option value="GO">GO </option>
+                                            <option value="MA">MA </option>
+                                            <option value="MG">MG </option>
+                                            <option value="MS">MS </option>
+                                            <option value="MT">MT </option>
+                                            <option value="PA">PA </option>
+                                            <option value="PB">PB </option>
+                                            <option value="PE">PE </option>
+                                            <option value="PI">PI </option>
+                                            <option value="PR">PR </option>
+                                            <option value="RJ">RJ </option>
+                                            <option value="RN">RN </option>
+                                            <option value="RO">RO </option>
+                                            <option value="RR">RR </option>
+                                            <option value="RS">RS </option>
+                                            <option value="SC">SC </option>
+                                            <option value="SP">SP </option>
+                                            <option value="SE">SE </option>
+                                            <option value="TO">TO </option>
+                                    </select></td>
+                        </tr>
+                      </table>                    </td>
+                  </tr>
+                  
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><span class="campo_obrigatorio">*</span> Sua mensagem: </td>
+                  </tr>
+                  <tr>
+                    <td height="3" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3"><textarea name="Mensagem" rows="5" class="form_maior" id="Mensagem" lang="1" onFocus="mudarCorCampo(this,'white')" ></textarea></td>
+                  </tr>
+                  <tr>
+                    <td height="5" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" align="right">
+					<div class="campo_obrigatorio" id="preenchimento">* Preenchimento obrigat&oacute;rio.</div>
+					
+					<div id="bt_enviar"><input name="submit" type="image" class="botao2" src="img/bt_enviar.gif" value="Enviar" /></div>
+					</td>
+                  </tr>
+                </table>
+              </td>
+                  </tr>
+                </form></table>
+			    
+			  </div>
+			  <div id="texto_contato">
+			    <img src="img/sub_tit_contato.gif" width="58" height="15" /><br />
+			        <br />
+		          Ide&iacute;des (Gerente):<br />
+	            (71) 9699-1728<br />
+	            <br />
+	            Rosimere:<br />
+(71) 9958-6750<br />
+		          <br />
+		          <strong>Haras Luanda:</strong><br />
+	            (71) 9614-0431 / 9911-6662<br />
+		          <br />
+			      <strong>Fax:</strong> (71) 2104-0466<br />
+			      <strong>E-mail:</strong> <a href="mailto:harasluanda@gmail.com">harasluanda@gmail.com</a><br />
+			      <br />
+			      <br />
+			      <img src="img/sub_tit_endereco.gif" width="116" height="33" />			      <br />
+		        <br />
+		        Av. Alphaville, n&ordm; 522, Quadra F4<br />
+		        Lote 01, Ed. Alpha Business<br />
+		        3&ordm; Andar, Sala 302, Alphaville I<br />
+		        Salvador - Bahia - Brasil<br />
+		        CEP: 41701-015</div>
+		    </div>
+		  </div>
+		</div>
+		<div class="png" id="base_arredondada"></div>
+		<div id="rodape">
+			<div class="rodape" id="rodape_texto">&copy; Copyright 2009 - Haras Luanda. Todos os direitos reservados.</div>
+			<div id="rodape_by">
+		  <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','83','height','26','src','../swf/by_designers','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','../swf/by_designers' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="83" height="26">
+            <param name="movie" value="../swf/by_designers.swf" />
+            <param name="quality" value="high" />
+            <param name="wmode" value="transparent" />
+            <embed src="../swf/by_designers.swf" width="83" height="26" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+	      </object>
+		</noscript>
+		</div>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9041086-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

@@ -1,0 +1,226 @@
+<gallery
+base = ""
+background = "#75D0D5"
+banner = "#F0F0F0"
+text = "#FFFFFF"
+link = "#0000FF"
+alink = "#FFFFFF"
+vlink = "#0099FF"
+date = "">
+	<sitename>ANIMAIS A VENDA</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0" align="left"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5" align="left"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0" align="left"> </large>
+<images id = "images">
+
+
+
+<image
+path = "Coliseu de Luanda 3.jpg"
+width = "350"
+height = "233"
+thumbpath = "Coliseu de Luanda 3.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Coliseu de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Coliseu de Luanda-1.jpg"
+width = "350"
+height = "233"
+thumbpath = "Coliseu de Luanda-1.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Coliseu de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Comodoro de Luanda.jpg"
+width = "350"
+height = "261"
+thumbpath = "Comodoro de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+	<meta name = ""><![CDATA[Comodoro de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Comodoro de Luanda2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Comodoro de Luanda2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Comodoro de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Concorde de Luanda.jpg"
+width = "350"
+height = "250"
+thumbpath = "Concorde de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "53">
+</image>
+
+
+<image
+path = "Conquista de Luanda.jpg"
+width = "350"
+height = "237"
+thumbpath = "Conquista de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Conquista de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Córsega de Luanda.jpg"
+width = "350"
+height = "233"
+thumbpath = "Córsega de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Córsega de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Córsega de Luanda2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Córsega de Luanda2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Decano de Luanda.jpg"
+width = "350"
+height = "214"
+thumbpath = "Decano de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "45">
+</image>
+
+
+<image
+path = "Decano de Luanda2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Decano de Luanda2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Destra de Luanda.jpg"
+width = "350"
+height = "236"
+thumbpath = "Destra de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Destra de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Deusa da Filó.jpg"
+width = "350"
+height = "233"
+thumbpath = "Deusa da Filó.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Deusa de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Deusa da Filó2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Deusa da Filó2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Deusa da Filó]]></meta>
+</image>
+
+
+<image
+path = "Drácula de Luanda.jpg"
+width = "350"
+height = "317"
+thumbpath = "Drácula de Luanda.jpg"
+thumbwidth = "75"
+thumbheight = "68">
+</image>
+
+
+<image
+path = "Drácula de Luanda2.jpg"
+width = "350"
+height = "278"
+thumbpath = "Drácula de Luanda2.jpg"
+thumbwidth = "75"
+thumbheight = "59">
+	<meta name = ""><![CDATA[Drácula de Luanda]]></meta>
+</image>
+
+
+<image
+path = "Karole do GTS.jpg"
+width = "350"
+height = "233"
+thumbpath = "Karole do GTS.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Karole do GTS2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Karole do GTS2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[karole do GTS]]></meta>
+</image>
+
+
+<image
+path = "Potra Pampa Mestiça.jpg"
+width = "350"
+height = "233"
+thumbpath = "Potra Pampa Mestiça.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Potra pampa mestiça]]></meta>
+</image>
+
+
+<image
+path = "Potra pampa mestiça 2.jpg"
+width = "350"
+height = "233"
+thumbpath = "Potra pampa mestiça 2.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+	<meta name = ""><![CDATA[Potra pampa Mestiça]]></meta>
+</image>
+
+</images>
+</gallery>

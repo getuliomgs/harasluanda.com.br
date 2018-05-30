@@ -1,0 +1,498 @@
+/* CSS Document */
+
+body {
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	background-color:#4e86be;
+	background-image:url(../img/bg_29-10-2012.jpg);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	padding-bottom:0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#130000;
+}
+
+#geral{
+	min-height:630px;
+}
+
+#topo{
+	background-image:url(../img/madeira_topo_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#madeira_topo{
+	width:765px;
+	height:28px;
+	position: relative;
+	z-index: 1;
+}
+
+
+#principal{
+	width:765px;
+}
+
+#lateral_esquerda{
+	width:184px;
+	float:left;
+}
+
+#marca{
+	width:184px;
+	height:163px;
+	background-image:url(../img/marca.jpg);
+}
+
+#menu_lateral{
+	width:184px;
+	height:307px;
+	background-image:url(../img/bg_menu_lateral.png);
+	behavior: url(iepngfix.htc);
+	background-repeat:no-repeat;
+}
+
+#conteudo{
+	width:581px;
+	float:right;
+}
+
+#conteudo_interno{
+	width:581px;
+	background-image:url(../img/bg_conteudo.png);
+	float:left;
+}
+
+.png{
+	behavior: url(iepngfix.htc);
+}
+
+#base_arredondada{
+	width:581px;
+	height:20px;
+	background-image:url(../img/base_arredondada.png);
+	float:left;
+}
+
+#rodape{
+	width:581px;
+	height:26px;
+	float:left;
+	margin-bottom:5px;
+}
+
+#rodape_texto{
+	width:388px;
+	text-align:right;
+	float:left;
+	margin-left:84px;
+	margin-top:7px;
+}
+
+#rodape_by{
+	width:83px;
+	float:left;
+}
+
+#banner{
+	width:581px;
+	height:172px;
+	float:left;
+	position: relative;
+}
+
+#destaques_home{
+	width:530px;
+	min-height:362px;
+	float:left;
+	padding-left:26px;
+	padding-right:15px;
+}
+
+#destaque_home_1{
+	width:155px;
+	text-align:left;
+	float:left;
+	margin-top:10px;
+}
+
+#destaque_home_2{
+	width:155px;
+	text-align:left;
+	margin-left:23px;
+	margin-top:10px;
+	float:left;
+}
+
+#box_novidades{
+	width:172px;
+	height:226px;
+	text-align:left;
+	float:left;
+	padding-bottom:15px;
+}
+
+#lateral_direita{
+	width:172px;
+	background-image:url(../img/bg_novidades.jpg);
+	background-position:top;
+	background-repeat:no-repeat;
+	float:right;
+	text-align:left;
+	margin-top:15px;
+}
+
+#texto_box_novidades{
+	margin-top:12px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+#tit_novidades{
+	width:88px;
+	height:13px;
+}
+
+#texto_novidades{
+	margin-top:8px;
+}
+
+#tit_cadastro{
+	width:75px;
+	height:12px;
+	margin-top:15px;
+}
+
+#destaque_texto{
+	padding-left:5px;
+	padding-right:5px;
+	margin-top:5px;
+}
+
+.rodape{
+	font-size:10px;
+	color:#FFFFFF;
+}
+
+a{
+	color:#130000;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#130000;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#130000;
+	text-decoration:underline;
+}
+
+.form{
+	color:#130000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+.form_maior{
+	color:#130000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	width:260px;
+}
+
+.form_menor{
+	color:#130000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	width:120px;
+}
+
+.campo_obrigatorio{
+	color:#715600;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+}
+
+#destaque_selo{
+	width:324px;
+	height:84px;
+	float:left;
+	margin-top:40px;
+}
+
+#selo{
+	width:84px;
+	height:84px;
+	float:left;
+	margin-right:15px;
+}
+
+#texto_selo{
+	text-align:left;
+}
+
+#titulo_selo{
+	height:12px;
+}
+
+#texto_explicativo_selo{
+	margin-top:8px;
+}
+
+#publicidade_um{
+	width:172px;
+	float:left;
+}
+
+#publicidade_dois{
+	width:172px;
+	float:left;
+	margin-top:4px;
+}
+
+#tit_internas{
+	width:307px;
+	float:left;
+}
+
+/* O Haras Luanda */
+
+#foto_maior{
+	width:307px;
+	height:205px;
+	float:left;
+}
+
+#foto_maior_nova{
+	width:530px;
+	float:left;
+}
+
+#foto_maior_nova img{
+	border:1px solid #130000;
+}
+
+#video_maior{
+	width:307px;
+	height:215px;
+	float:left;
+}
+
+#legenda_foto{
+	width:307px;
+	float:left;
+	text-align:left;
+	padding-top:8px;
+}
+
+#fotos_mini{
+	float:right;
+	width:198px;
+}
+
+#fotos_mini_icones{
+	float:right;
+	width:198px;
+}
+
+#subtitulo{
+	width:307px;
+	float:left;
+	text-align:left;
+	margin-top:23px;
+	margin-bottom:21px;
+}
+
+#subtitulo_novidades{
+	width:420px;
+	float:left;
+	text-align:left;
+	margin-top:23px;
+	margin-bottom:21px;
+}
+
+#subtitulo_novidades_maior{
+	width:450px;
+	float:left;
+	text-align:left;
+	margin-top:23px;
+	margin-bottom:21px;
+}
+
+#texto_internas{
+	width:530px;
+	float:left;
+	text-align:left;
+	margin-top:23px;
+	margin-bottom:21px;
+	text-align:justify;
+}
+
+#texto_principal{
+	width:530px;
+	float:left;
+	text-align:justify;
+}
+
+#voltar{
+	width:55px;
+	float:right;
+	margin-top:18px;
+}
+
+.titulo2{
+	font-size:12px;
+	text-decoration:underline;
+}
+
+.titulo1{
+	font-size:13px;
+}
+
+#mapa{
+	width:530px;
+	height:262px;
+	background-image:url(../como_chegar/img/mapa.gif);
+	float:left;
+}
+
+#impressao_mapa{
+	width:135px;
+	height:35px;
+	float:left;
+	text-align:left;
+	margin-top:15px;
+	margin-left:3px;
+}
+
+.texto_mapa{
+	color:#FFFFFF;
+	font-size:9px;
+}
+
+.texto_mapa a{
+	color:#FFFFFF;
+	font-size:9px;
+}
+
+#genealogia{
+	width:530px;
+	height:280px;
+	background-image:url(../img/genealogia.gif);
+	background-repeat:no-repeat;
+	float:left;
+}
+
+#genealogia_2{
+	width:530px;
+	height:280px;
+	background-image:url(../img/genealogia_2.gif);
+	background-repeat:no-repeat;
+	float:left;
+}
+
+#genealogia_dimitri{
+	width:530px;
+	height:280px;
+	background-image:url(../img/genealogia_dimitri.gif);
+	background-repeat:no-repeat;
+	float:left;
+}
+
+#tit_genealogia{
+	width:530px;
+	float:left;
+	text-align:left;
+	margin-top:20px;
+	margin-bottom:8px;
+}
+
+#somente_texto_interno{
+	width:530px;
+	float:left;
+	text-align:justify;
+	margin-top:23px;
+}
+
+#texto_como_chegar{
+	width:530px;
+	float:left;
+	text-align:justify;
+	margin-bottom:21px;
+}
+
+#titulo_espacamento{
+	margin-bottom:23px;
+	width:307px;
+	float:left;
+}
+
+#bt_enviar{
+	width:49px;
+	height:16px;
+	float:right;
+}
+
+#preenchimento{
+	width:200px;
+	float:left;
+	margin-top:2px;
+	text-align:left;
+}
+
+#form_contato{
+	width:260px;
+	float:left;
+}
+
+#texto_contato{
+	float:right;
+	width:205px;
+	padding-left:17px;
+	background-image:url(../contato/img/bg_lateral_direita.gif);
+	background-repeat:repeat-y;
+}
+
+#form_eventos{
+	width:320px;
+	float:left;
+}
+
+.texto_evento{
+	color:#715600;
+	text-align:left;
+}
+
+#calendario{
+	float:right;
+	width:186px;
+	background-repeat:repeat-y;
+	text-align:right;
+}
+
+#foto_news{
+	width:185px;
+	height:300px;
+	float:right;
+	margin-left:4px;
+}
+
+.credito{
+	font-size:9px;
+}
+
+.legenda{
+	color:#715600;
+	font-size:10px;
+}
+
+#animal_interna{
+	width:530px;
+	float:left;
+}

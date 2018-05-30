@@ -1,0 +1,19 @@
+/* CSS Document */
+
+
+.navbar-inverse {
+	
+	background-color: #FFF;
+	border-color: #FFF;
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #3399CC;
+	background: #FFF;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover  {
+	color: #333;
+	background: #CCC;
+}
