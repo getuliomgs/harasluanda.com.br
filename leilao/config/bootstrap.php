@@ -178,7 +178,7 @@ Plugin::load('CakePdf', ['bootstrap' => true, 'routes' => true]);
         'orientation' => 'portrait',
         'download' => true
     ]);
-Plugin::load('TwitterBootstrap');
+
 /**
  * Custom Inflector rules, can be set to correctly pluralize or singularize
  * table, model, controller names or whatever other string is passed to the
