@@ -295,4 +295,23 @@ class AnimaisController extends AppController
         return $this->redirect(['action' => 'index_user']);
     }
 
+     /**
+     * View method
+     *
+     * @param string|null $id Animai id.
+     * @return \Cake\Network\Response|null
+     * @throws \Cake\Datasource\Exception\RecordNotFoundException When record not found.
+     */
+    public function viewAnimais()
+    {
+
+        $sexo = $this->sexo;
+        $pelagem = $this->pelagem;
+        $status_2 = $this->status_2;
+
+        
+        $this->set('sexo', $sexo);
+        $this->set('_serialize', [$sexo]);
+    }
+
 }

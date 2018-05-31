@@ -20,7 +20,7 @@ class LeiloesController extends AppController
     public function index()
     {
         
-        echo "gg bixão";
+        
     }
 
 /**
@@ -31,7 +31,7 @@ class LeiloesController extends AppController
     public function indexUser()
     {
         
-        echo "gg bixão";
+        
     }
 
 }

@@ -1,3 +1,7 @@
 <?php
-	echo "teet";
+
+
+$this->extend('/Animais/view_animais');
 ?>
+
+       
