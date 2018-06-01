@@ -11,8 +11,8 @@ use App\Controller\AppController;
 class AnimaisController extends AppController
 {
 
-    public $uploads =  '../webroot/uploads/animais/'; 
-    public $uploads2 =  'webroot/uploads/animais/'; 
+    public $uploads =  '../uploads/animais/'; 
+    public $uploads2 =  '../webroot/uploads/animais/'; 
     private $sexo = ['m' => 'Macho','f' => 'Fêmia'];
     private $status_2 =  [ 'A'=>'Ativo', 'I'=>'Inativo'];
     private $pelagem =
@@ -166,8 +166,7 @@ class AnimaisController extends AppController
             $animai = $this->Animais->patchEntity($animai, $this->request->data);         
             
             if ($this->Animais->save($animai)) {
-
-
+                
                 foreach ($_FILES as $key => $value) {
                     if (move_uploaded_file($value['tmp_name'], $this->uploads2.$this->Animais->save($animai)->id."-".$key.".".$this->extencaoNome($value['name']))) {
 

@@ -17,3 +17,53 @@
 	color: #333;
 	background: #CCC;
 }
+
+.card-body {
+
+	padding: 0rem;
+	padding: 1px 12px;
+}
+
+.card-text{
+	margin-bottom: 0.5rem;
+}
+
+.card-lance-atual{
+	display: block;
+	margin-bottom: 0.5rem;
+}
+.card-lance-atual-valor{
+	float: right;
+}
+
+p {
+	margin-bottom: 0rem;
+}
+
+.btn-fechado{
+
+}
+
+.btn-group {
+	width: 100%;
+}
+
+.btn-abe{
+	background-color: #186529;
+	border-color: #186529;
+}
+
+.btn-abe:hover{
+	background-color: #186529;
+	border-color: #186529;
+}
+
+.btn-emb{
+	background-color: #6F5300;
+	border-color: #6F5300;
+}
+
+.btn-emb:hover{
+	background-color: #6F5300;
+	border-color: #6F5300;
+}
