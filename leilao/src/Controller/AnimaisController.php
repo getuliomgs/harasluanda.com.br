@@ -2,6 +2,7 @@
 namespace App\Controller;
 
 use App\Controller\AppController;
+use Cake\I18n\Time;
 
 /**
  * Animais Controller
@@ -11,8 +12,10 @@ use App\Controller\AppController;
 class AnimaisController extends AppController
 {
 
+    public $components = array('animais', 'lances');
+
     public $uploads =  '../uploads/animais/'; 
-    public $uploads2 =  '../webroot/uploads/animais/'; 
+    public $uploads2 =  'webroot/uploads/animais/'; 
     private $sexo = ['m' => 'Macho','f' => 'Fêmia'];
     private $status_2 =  [ 'A'=>'Ativo', 'I'=>'Inativo'];
     private $pelagem =
@@ -166,7 +169,6 @@ class AnimaisController extends AppController
             $animai = $this->Animais->patchEntity($animai, $this->request->data);         
             
             if ($this->Animais->save($animai)) {
-                
                 foreach ($_FILES as $key => $value) {
                     if (move_uploaded_file($value['tmp_name'], $this->uploads2.$this->Animais->save($animai)->id."-".$key.".".$this->extencaoNome($value['name']))) {
 
@@ -220,7 +222,8 @@ class AnimaisController extends AppController
             
             if ($this->Animais->save($animai)) {
 
-
+                debug(getcwd());
+                
                 foreach ($_FILES as $key => $value) {
                     if (move_uploaded_file($value['tmp_name'], $this->uploads2.$this->Animais->save($animai)->id."-".$key.".".$this->extencaoNome($value['name']))) {
 
@@ -311,6 +314,39 @@ class AnimaisController extends AppController
         
         $this->set('sexo', $sexo);
         $this->set('_serialize', [$sexo]);
+    }
+
+     /**
+     * View method
+     *
+     * @param string|null $id Animai id.
+     * @return \Cake\Network\Response|null
+     * @throws \Cake\Datasource\Exception\RecordNotFoundException When record not found.
+     */
+    public function leilao($id = null)
+    {
+
+        $lances = array();
+        $sexo = $this->sexo;
+        $pelagem = $this->pelagem;
+        $status_2 = $this->status_2;
+        $time = Time::now();
+        $animai = $this->Animais->get($id, [
+            'contain' => []
+        ]);
+
+        $animai->sexo = $sexo[$animai->sexo];
+        if(empty($animai->pelagem)){
+            $animai->pelagem = '';  
+        }else{
+            $animai->pelagem = $pelagem[$animai->pelagem];
+        }
+
+        $flagLeilao = $this->animais->flagLeilao($animai->data_leilao_ini, $animai->data_leilao_fim, $time);
+        $lances = $this->lances->lances($id);
+        $animai->status_2 = $status_2[$animai->status_2];
+        $this->set(compact('animai', 'flagLeilao', 'lances'));
+        $this->set('_serialize', [$animai, $flagLeilao, $lances]);
     }
 
 }

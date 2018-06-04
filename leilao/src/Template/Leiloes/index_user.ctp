@@ -16,24 +16,32 @@
 							</div>
 						</div>
 		          		<div class="d-flex justify-content-between align-items-center">
-		            		<div class="btn-group">
-		            			
-		            			<?php if($flagLeilao[$key] == "FEC"): ?>
-		              				<button type="button" class="btn btn-secondary btn-lg btn-block">FECHADO</button>
-		              				<button type="button" class="btn btn-dark">X</button>
-		              			<?php endif; ?>
+		            		
+		            		<?= $this->Form->create(null, ['url'=>['controller'=>'animais', 'action'=>'leilao/'.$value->id], 'type'=>'post']); ?>
+		            			<div class="btn-group">	            			
+			            			<?php if($flagLeilao[$key] == "FEC"): ?>
+			              				<?php
+			              					echo $this->Form->button("FECHADO", ['class'=>"btn btn-secondary btn-lg btn-block" ]);
+			              					echo $this->Form->button("X", ['class'=>"btn btn-dark" ]);
+			              				?>
+			              			<?php endif; ?>
 
-		              			<?php if($flagLeilao[$key] == "ABE"): ?>
-		              				<button type="button" class="btn btn-success btn-lg btn-block">LANCE</button>
-		              				<button type="button" class="btn btn-dark btn-abe">+</button>
-		              			<?php endif; ?>
+			              			<?php if($flagLeilao[$key] == "ABE"): ?>		              				
+			              				<?php
+			              					echo $this->Form->button("FECHADO", ['class'=>"btn btn-success btn-lg btn-block" ]);
+			              					echo $this->Form->button("X", ['class'=>"btn btn-dark btn-abe" ]);
+			              				?>
+			              			<?php endif; ?>
 
-		              			<?php if($flagLeilao[$key] == "EMB"): ?>
-		              				<button type="button" class="btn btn-warning btn-lg btn-block">EM BREVE</button>
-		              				<button type="button" class="btn btn-dark btn-emb">#</button>
-		              			<?php endif; ?>
-		              			
-		            		</div>
+			              			<?php if($flagLeilao[$key] == "EMB"): ?>
+			              				
+			              				<?php
+			              					echo $this->Form->button("FECHADO", ['class'=>"btn btn-warning btn-lg btn-block" ]);
+			              					echo $this->Form->button("X", ['class'=>"btn btn-dark btn-emb" ]);
+			              				?>
+			              			<?php endif; ?>		              			
+		            			</div>
+		            		<?= $this->Form->end(); ?>
 		          		</div>
 		        	</div>
 		      	</div>

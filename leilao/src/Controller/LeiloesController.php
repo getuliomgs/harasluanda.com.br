@@ -24,8 +24,8 @@ class LeiloesController extends AppController
         
     }
 
-/**
-     * Index method
+    /**
+     * Index User method
      *
      * @return \Cake\Network\Response|null
      */
@@ -34,25 +34,15 @@ class LeiloesController extends AppController
         
         $flagLeilao = array();
         $time = Time::now();
-        
         $listarAnimais = $this->animais->listarAnimais();
         foreach ($listarAnimais as $key => $value) {
-                
-            if($time > $value->data_leilao_ini){
-                if($time < $value->data_leilao_fim){
-                    $flagLeilao[$key] = "ABE";
-                }else{
-                    $flagLeilao[$key] = "FEC";
-                }
-            }elseif($time > $value->data_leilao_fim){
-                $flagLeilao[$key] = "FEC";
-            }else{
-                $flagLeilao[$key] = "EMB";
-            }
+            $flagLeilao[$key] = $this->animais->flagLeilao($value->data_leilao_ini, $value->data_leilao_fim, $time);
         }
 
         $this->set(compact('listarAnimais','flagLeilao'));
         $this->set('_serialize', [$listarAnimais, $flagLeilao]);
     }
+
+    
 
 }
