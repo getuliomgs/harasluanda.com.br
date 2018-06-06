@@ -19,13 +19,14 @@
 }
 
 .card-body {
-
 	padding: 0rem;
 	padding: 1px 12px;
+	 background: linear-gradient(#ccc, #fff);
 }
 
 .card-text{
 	margin-bottom: 0.5rem;
+	font-size: small;
 }
 
 .card-lance-atual{
@@ -67,3 +68,6 @@ p {
 	background-color: #6F5300;
 	border-color: #6F5300;
 }
+
+
+

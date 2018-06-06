@@ -8,6 +8,7 @@ use Cake\ORM\Entity;
  *
  * @property int $id
  * @property string $nome
+ * @property string $descricao
  * @property string $sexo
  * @property \Cake\I18n\Time $data_nasc
  * @property string $raca

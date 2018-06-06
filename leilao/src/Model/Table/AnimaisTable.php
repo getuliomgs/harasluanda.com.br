@@ -48,6 +48,9 @@ class AnimaisTable extends Table
             ->notEmpty('nome');
 
         $validator
+            ->allowEmpty('descricao');
+
+        $validator
             ->requirePresence('sexo', 'create')
             ->notEmpty('sexo');
 

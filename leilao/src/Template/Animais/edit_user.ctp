@@ -27,6 +27,7 @@
         <legend><?= __('Edit Animai') ?></legend>
         <?php
             echo $this->Form->input('nome');
+            echo $this->Form->input('descricao');
              echo $this->Form->input(
                 'sexo',
                 [

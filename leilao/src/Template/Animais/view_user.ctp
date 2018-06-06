@@ -22,6 +22,10 @@
             <td><?= h($animai->nome) ?></td>
         </tr>
         <tr>
+            <th><?= __('Descrição') ?></th>
+            <td><?= h($animai->descricao) ?></td>
+        </tr>
+        <tr>
             <th><?= __('Sexo') ?></th>
             <td><?= h($animai->sexo) ?></td>
         </tr>

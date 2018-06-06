@@ -12,7 +12,7 @@ use Cake\I18n\Time;
 class LeiloesController extends AppController
 {
 
-    public $components = array('animais');
+    public $components = array('animais','leiloes', 'lances');
     /**
      * Index method
      *
@@ -37,10 +37,11 @@ class LeiloesController extends AppController
         $listarAnimais = $this->animais->listarAnimais();
         foreach ($listarAnimais as $key => $value) {
             $flagLeilao[$key] = $this->animais->flagLeilao($value->data_leilao_ini, $value->data_leilao_fim, $time);
+            $lances[$value->id] = $this->lances->lanceMaior($value->id);
         }
-
-        $this->set(compact('listarAnimais','flagLeilao'));
-        $this->set('_serialize', [$listarAnimais, $flagLeilao]);
+        
+        $this->set(compact('listarAnimais','flagLeilao', 'lances'));
+        $this->set('_serialize', [$listarAnimais, $flagLeilao, $lances]);
     }
 
     

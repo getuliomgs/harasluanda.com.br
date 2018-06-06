@@ -10,6 +10,7 @@
         <legend><?= __('Add Animai') ?></legend>
         <?php
             echo $this->Form->input('nome');
+            echo $this->Form->input('descricao');
             echo $this->Form->input('sexo');
             echo $this->Form->input('data_nasc');
             echo $this->Form->input('raca');
