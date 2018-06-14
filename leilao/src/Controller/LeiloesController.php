@@ -13,6 +13,15 @@ class LeiloesController extends AppController
 {
 
     public $components = array('animais','leiloes', 'lances');
+
+
+    public function initialize()
+    {
+        parent::initialize();
+        // Add the 'add' action to the allowed actions list.
+        $this->Auth->allow(['indexUser']);
+    }
+
     /**
      * Index method
      *
@@ -31,7 +40,7 @@ class LeiloesController extends AppController
      */
     public function indexUser()
     {
-        
+               
         $flagLeilao = array();
         $time = Time::now();
         $listarAnimais = $this->animais->listarAnimais();

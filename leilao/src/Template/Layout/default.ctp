@@ -35,21 +35,31 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <?= $cakeDescription ?>:
         <?= $this->fetch('title') ?>
     </title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
     <?= $this->Html->meta('icon') ?>
 
-    <?= $this->Html->css('base.css') ?>
-    <?= $this->Html->css('cake.css') ?>
-    <?= $this->Html->css('css.css') ?>
-     <?= $this->Html->css('menuHorizontal.css') ?>
+    <?= $this->Html->css('bootstrap.min.css'); ?>
+    
+    <?php
+      /*
+        $this->Html->css('base.css')
+        $this->Html->css('cake.css');
+    
+        $this->Html->css('menuHorizontal.css');
+      */
+    ?>
+    <?= $this->Html->css('cake.css'); ?>
+    <?= $this->Html->css('base.css'); ?>
+    <?= $this->Html->css('css.css'); ?>
 
     <?= $this->fetch('meta') ?>
     <?= $this->fetch('css') ?>
     <?= $this->fetch('script') ?>
+    <?= $this->Html->script('jquery-3.3.1.slim.min'); ?>
     <?php
 
-    //echo $this->Html->script('jquery-1.12.3'); echo
-    //$this->Html->script('jquery.maskedinput')
+    
+    echo $this->Html->script('jquery.maskedinput')
     
     ?>
 </head>
@@ -89,6 +99,8 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
                        
 
     <?= $this->Flash->render() ?>
+
+
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <?= $this->html->image('logomarca-haras-luanda.jpg') ?> 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -131,10 +143,10 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <?= $this->fetch('content') ?>
     </section>
     <footer>
-      <div style="height:100px; display: block; margin-top: 1em;  padding: 5%; background: #333; color: #FFF" id="rodape">RODAPÉ</div>
+     
     </footer>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <?= $this->Html->script('bootstrap.min'); ?>
+        
 </body>
 </html>

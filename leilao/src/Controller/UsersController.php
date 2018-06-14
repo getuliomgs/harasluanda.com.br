@@ -15,6 +15,14 @@ class UsersController extends AppController
 {
 
     private $optRole =  ['superUser' => 'Super Usuário', 'leiloeiro' => 'Leiloeiro'];
+
+
+    public function initialize()
+    {
+        parent::initialize();
+        // Add the 'add' action to the allowed actions list.
+        $this->Auth->allow(['logout', 'cadastro','index','login',]);
+    }
     /**
      * Index method
      *
@@ -23,7 +31,6 @@ class UsersController extends AppController
     public function index()
     {
 
-        $this->testeAuth($_SESSION['Auth']['User']['role'], ['sindAdm']);
 
         $users = $this->paginate($this->Users);
 
@@ -40,7 +47,7 @@ class UsersController extends AppController
      */
     public function view($id = null)
     {
-        $this->testeAuth($this->request->session()->read()['Auth']['User']['role']);
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'],['leiloeiro']);
 
         $user = $this->Users->get($id, [
             'contain' => []
@@ -57,7 +64,7 @@ class UsersController extends AppController
      */
     public function add()
     {
-        $this->testeAuth($this->request->session()->read()['Auth']['User']['role']);
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'],['leiloeiro']);
 
         $user = $this->Users->newEntity();
         if ($this->request->is('post')) {
@@ -88,7 +95,7 @@ class UsersController extends AppController
     public function edit($id = null)
     {
         
-        $this->testeAuth($this->request->session()->read()['Auth']['User']['role']);
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'],['leiloeiro']);
 
         $user = $this->Users->get($id, [
             'contain' => []
@@ -117,7 +124,7 @@ class UsersController extends AppController
     public function editUser()
     {
         
-        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'], ['sindico']);
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'], ['leiloeiro']);
 
         $user = $this->Users->get($this->request->session()->read()['Auth']['User']['id'], [
             'contain' => []
@@ -145,7 +152,9 @@ class UsersController extends AppController
      */
     public function delete($id = null)
     {
-        $this->testeAuth($_SESSION['Auth']['User']['role']);
+
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'],['leiloeiro']);
+
 
         $this->request->allowMethod(['post', 'delete']);
         $user = $this->Users->get($id);
@@ -161,9 +170,9 @@ class UsersController extends AppController
     {
         if ($this->request->is('post')) {
            
-            $user = $this->Auth->identify();
+           $user = $this->Auth->identify();
             //debug($user['role']);
-            //debug($user)or die();
+           //debug($user)or die();
             if ($user) {
                 $this->Auth->setUser($user);
                 if($user['role'] != 'condomino'){
@@ -180,7 +189,7 @@ class UsersController extends AppController
                 //cadastra usuário e envia email para confirmar acesso
                 $this->add();
             }else{
-                $this->Flash->error(__('Invalid username or password, try again'));
+                $this->Flash->error(__('Invalido usuário ou senha, tente novamente'));
             }
         }
     }
@@ -208,5 +217,22 @@ class UsersController extends AppController
                 break;
         }
         $this->Flash->error(__($mens));
+    }
+
+
+    public function indexUser()
+    {
+        
+        $this->testeAuth($this->request->session()->read()['Auth']['User']['role'], ['leiloeiro']);
+
+        $users = $this->paginate($this->Users);
+
+        $this->set(compact('users'));
+        $this->set('_serialize', ['users']);
+    }
+
+     public function cadastro()
+    {
+          
     }
 }

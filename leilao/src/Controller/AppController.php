@@ -46,12 +46,24 @@ class AppController extends Controller
         $this->loadComponent('Flash');
         $this->_validViewOptions[] = 'pdfConfig';
 
-        $this->loadComponent('Auth',
-            [            
-            'logoutRedirect' => [
-                'controller' => 'Users'    
-            ]
+        $this->loadComponent('Auth', [
+            'authenticate' => [
+                'Form' => [
+                    'fields' => [
+                        'username' => 'username',
+                        'password' => 'password'
+                    ]
+                ]
+            ],
+            'loginAction' => [
+                'controller' => 'Users',
+                'action' => 'login'
+            ],
+             // If unauthorized, return them to page they were just on
+            'unauthorizedRedirect' => $this->referer()
         ]);
+
+                
         //$this->viewBuilder()->theme('TwitterBootstrap');
     }
 
@@ -105,7 +117,7 @@ class AppController extends Controller
 
         //http://book.cakephp.org/3.0/en/controllers/components/authentication.htmls
         if(!$permissao){
-            $this->redirect(['controller'=>'Users', 'action'=>'acesso', 'm'=>$m]);
+            $this->redirect(['controller'=>'Users', 'action'=>'login', 'm'=>$m]);
         }
         //debug("testeAuth")or die();
     }

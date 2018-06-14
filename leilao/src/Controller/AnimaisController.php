@@ -44,6 +44,14 @@ class AnimaisController extends AppController
             '22'=>'Preto',
             '23'=>'Tordilha'
         ];
+    
+public function initialize()
+    {
+        parent::initialize();
+        // Add the 'add' action to the allowed actions list.
+        $this->Auth->allow(['leilao']);
+    }
+
     /**
      * Index method
      *
@@ -341,6 +349,8 @@ class AnimaisController extends AppController
         }else{
             $animai->pelagem = $pelagem[$animai->pelagem];
         }
+
+        debug($this->request->session()->read()['Auth']['User']['role']);
 
         $flagLeilao = $this->animais->flagLeilao($animai->data_leilao_ini, $animai->data_leilao_fim, $time);
         $lances = $this->lances->lances($id);
